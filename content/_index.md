@@ -9,7 +9,7 @@ page_template = "blog-page.html"
 * Je produit du code, selon l’humeur du moment, sur :
     * [gitlab](https://gitlab.com/tristramg)
     * [github](https://github.com/tristramg)
-* Je raconte des trucs décousus sur [twitter](https://twitter.com/tristramg)
+* Je raconte des trucs décousus sur [twitter](https://twitter.com/tristramg), mais j’essaye de me botter les fesses pour passer à <a rel="me" href="https://mamot.fr/@tristramg">Mastodon</a>
 * Je travaille au sein de la coopérative [Codeurs en Liberté](https://www.codeursenliberte.fr/)
 * Voici quelques bidouilles :
     * [la zone](https://tristramg.github.io/lazone/) : expérimentation pour raconter l’histoire des limites de Paris
