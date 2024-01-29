@@ -5,12 +5,12 @@ category = "tech"
 +++
 
 {% update(date="2020-12-26") %}
-Ze suis toujours aussi fan du Rust et j’ai pu en faire professionnellement. Et ce blog a été réécrit en utilisant
+Je suis toujours aussi fan du Rust et j’ai pu en faire professionnellement. Et ce blog a été réécrit en utilisant
 [zola](https://www.getzola.org/).
 
 Par contre, l’évolution est amusante : presque tout ce que je détaille n’est plus d’actualité, d’autres approches ont été utilisées.
 
-Mais reste le plus important : on a une alternative au C++ sûre et plaisante à utiler.
+Mais reste le plus important : on a une alternative au C++ sûre et plaisante à utiliser.
 {% end %}
 
 Je me suis intéressé au langage [Rust](http://www.rust-lang.org/). Et je
@@ -48,7 +48,7 @@ nouveau process est une opération lourde à ne pas faire trop souvent.
 ## Multithread
 
 C’est ce que nous apprenons à l’école. On apprend à utiliser des mutex,
-des sémaphores, on deviens fou à essayer de déboguer une
+des sémaphores, on devient fou à essayer de déboguer une
 *race-condition*. Donc c’est non seulement difficile à coder, mais en
 plus un bon nombre de langages on du mal à implémenter les threads. Et
 en plus, dans le cas de gros serveurs, créer un thread par requête est
@@ -62,14 +62,14 @@ requêtes en parallèle tout en ne tournant qu’un seul thread. Cela a
 popularisé les boucles d’évènements. Une boucle qui gère l’ensemble des
 tâches à traiter fonctionne plutôt bien ; en particulier lorsqu’il y a
 un grand nombre de temps morts comme des lectures disques, requêtes à
-une base de données, etc..
+une base de données, etc…
 
 Cet article explique plutôt bien ce dont il s’agit
 <http://applidium.com/en/news/writing_an_evented_web_server/>.
 
 ## Les tasks Rust
 
-Les *tasks* dans Rust sont comparables que les *goroutines* de Go. La
+Les *tasks* dans Rust sont comparables aux *goroutines* de Go. La
 création d’une tâche est très légère : c’est tout à fait envisageable de
 lancer des dizaines de milliers de tâches. Concrètement, à l’exécution
 du programme plusieurs threads sont lancés qui se répartissent le
