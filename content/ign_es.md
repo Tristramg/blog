@@ -29,3 +29,9 @@ On peut donc faire le lien entre l’aprentage, et la carte, voici un extrait c�
 C’est tout ce que j’ai à dire. Je conclus donc avec les pleines et les déliées de la signature du topographe auxiliaire López.
 
 ![Signature de López](../images/ign_es/lópez.webp)
+
+PS : si ce sujet vous fascine autant que moi, voici quelques conseils de lecture
+
+- [Le Mètre du monde](https://www.leslibraires.fr/livre/1897303-le-metre-du-monde-denis-guedj-points) de Denis Guedj
+- [Le Procès des étoiles](https://www.leslibraires.fr/livre/11521745-le-proces-des-etoiles-recit-de-la-prestigieuse--florence-trystram-payot) de Florence Trystram (aucun lien)
+- [La femme du cartographe](https://www.leslibraires.fr/livre/12967192-la-femme-du-cartographe-une-histoire-vraie-d-a--robert-whitaker-payot) de Robert Whitaker
