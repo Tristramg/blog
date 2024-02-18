@@ -4,6 +4,14 @@ title = "Salaires : le mien et combien serait juste ?"
 category = "rouge-noir"
 +++
 
+{% update(date="2024-2-18") %}
+C’est un sujet qui reste difficile à discuter.
+
+À titre personnel, j’ai réduit mon taux à 550 €.
+
+Mais avec la [prime partage de la valeur](https://fr.wikipedia.org/wiki/Prime_de_partage_de_la_valeur), la [suppression de certaines cotisations salariales](https://www.economie.gouv.fr/particuliers/suppression-des-cotisations-chomage-et-maladie-pour-salaries-secteur-prive) et les [réductions des cotisations patronales](https://entreprendre.service-public.fr/actualites/A17115), je dirais que le salaire qui finit sur mon compte en banque a augmenté — au dépends bien sûr d’une solidarité avec les travailleurs et travailleuses moins bien loti·e·s que moi.
+{% end %}
+
 La question des salaires m’a toujours gênée. Ce blog post permet de poser différents aspects qui me travaillent, sans pour autant répondre à ce qu’il faudrait faire. Tout juste j’énonce des banalités « y’a des énormes injustices » et « je suis un sacré privilégié ».
 
 Il faut différencier :
