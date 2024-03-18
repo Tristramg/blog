@@ -33,7 +33,7 @@ Il y a tout de même un rêve qui émerge : et si on chainait toutes ces coopér
 
 On a donc un tout un pan de l’économie qui échappe à la spéculation et à la propriété lucrative. C’est ce qu’essayent de pousser les _coopératives intégrales_.
 
-Il y a aussi les [SCIC](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_coop%C3%A9rative_d%27int%C3%A9r%C3%AAt_collectif), une forme de coopérative où le but est de mettre toutes les parties prenantes dans la même structure. Par exemple chez enercoop, les salarié·e·s, client·e·s et producteurices sont actionnaires malgré des intérêts personnels contradictoires.
+Il y a aussi les [SCIC](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_coop%C3%A9rative_d%27int%C3%A9r%C3%AAt_collectif), une forme de coopérative où le but est de mettre toutes les parties prenantes dans la même structure. Par exemple chez Enercoop, les salarié·e·s, client·e·s et producteurices sont actionnaires malgré des intérêts personnels contradictoires.
 
 Ce genre de structures laissent donc entrevoir une approche pour totalement sortir des échanges marchands et finalement être révolutionnaires.
 
