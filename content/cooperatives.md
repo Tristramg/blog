@@ -43,6 +43,6 @@ Peut-être par esprit de contrariété, j’aurais tendance à ne pas considére
 
 Si on considère que l’on doit sortir de la ploutocratie des entreprises (_plus d’action = plus de pouvoir_) pour aller vers de la démocratie (_l’avis de chaque personne est aussi important, quelque soit le nombre d’actions détenues_), alors la coopérative est forcément un point de passage.
 
-La coopérative doit aussi être un lieu d’apprentissage de nouveaux moyens de prise de décision et d’expérimentation. Il faut en permanence s’aguilloner pour sortir du confort et de l’auto-congratulation qu’une coopérative c’est quand même vachement mieux. Il faut rejoindre les syndicats pour renforcer la lutte des classes et voir un avenir plus désirable se construire, sans attendre le grand soir.
+La coopérative doit aussi être un lieu d’apprentissage de nouveaux moyens de prise de décision et d’expérimentation. Il faut en permanence s’aiguillonner pour sortir du confort et de l’auto-congratulation qu’une coopérative c’est quand même vachement mieux. Il faut rejoindre les syndicats pour renforcer la lutte des classes et voir un avenir plus désirable se construire, sans attendre le grand soir.
 
 La coopérative peut donc être un outil pour réflechir à la révolution et tester certaines idées _in vivo_, mais ne doit en aucun cas être une fin en soi.
