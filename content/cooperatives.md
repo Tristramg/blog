@@ -6,7 +6,7 @@ title = "Les coopératives, capitalisme et révolution"
 
 Les coopératives sont un sujet qui m’occupe beaucoup. Je travaille dans une [coopérative](https://codeursenliberte.fr) depuis son début ; j’en parlais déjà dans [Anarchy in the IT](/democratie) il y a bientôt huit ans ; je participe à la rédaction d’un guide pour recueillir des témoignages de fonctionnement de coopératives en informatique : [codecode.coop](https://codecode.coop/) ; je fais attention à ce que [mon fournisseur d’électricité](https://www.enercoop.fr/) soit une coopérative et que ma complémentaire santé et mes banques soient mutualistes.
 
-Mais malgré tout cet attachement aux coopératives, je reste hésitant sur leur rôle dans une perspective révolutionnaire. Le débat organisé par l’[Union Communiste Libertaire](https://www.unioncommunistelibertaire.org/) avec le titre _[Coopératives de production et communisme libertaire](https://paris-luttes.info/apero-debat-cooperatives-de-17913)_ resonnait donc avec mes interrogations.
+Mais malgré tout cet attachement aux coopératives, je reste hésitant sur leur rôle dans une perspective révolutionnaire. Le débat organisé par l’[Union Communiste Libertaire](https://www.unioncommunistelibertaire.org/) avec le titre _[Coopératives de production et communisme libertaire](https://paris-luttes.info/apero-debat-cooperatives-de-17913)_ résonnait donc avec mes interrogations.
 
 La soirée était très riche et je remercie vraiment les organisateurices.
 
