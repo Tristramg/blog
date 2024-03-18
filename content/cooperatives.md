@@ -29,7 +29,7 @@ C’est pour cela que je ne suis pas favorable à une certaines tendance à édu
 
 ## Cela pourrait être un moyen
 
-Il y a tout de même un rêve qui emmerge : et si on chainait toutes ces coopératives ? L’agriculteurice se procure ses outils auprès une SCOP, distribue ses légumes par une coopérative que seront vendus dans un supermarché coopératif aux ouvrier·es de la SCOP qui habitent dans une coopérative d’habitants.
+Il y a tout de même un rêve qui émerge : et si on chainait toutes ces coopératives ? L’agriculteurice se procure ses outils auprès d’une SCOP, distribue ses légumes par une coopérative que seront vendus dans un supermarché coopératif aux ouvrier·es de la SCOP qui habitent dans une coopérative d’habitants.
 
 On a donc un tout un pan de l’économie qui échappe à la spéculation et à la propriété lucrative. C’est ce qu’essayent de pousser les _coopératives intégrales_.
 
