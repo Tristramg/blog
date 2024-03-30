@@ -27,42 +27,53 @@ $decoration-font-family: sans-serif;
     overflow: hidden;
 
     &:before {
-      content: '';
-      position: absolute;
-      z-index: -1;
-      height: 2px;
-      bottom: 0;
-      left: 51%;
-      right: 51%;
-      background: $main-colour;
-      transition-duration: 0.2s;
-      transition-property: right, left;
-      transition-timing-function: ease-out;
+        content: '';
+        position: absolute;
+        z-index: -1;
+        height: 2px;
+        bottom: 0;
+        left: 51%;
+        right: 51%;
+        background: $main-colour;
+        transition-duration: 0.2s;
+        transition-property: right, left;
+        transition-timing-function: ease-out;
     }
 
     &.active,
     &:active,
     &:focus,
     &:hover {
-      &:before {
-        right: 0;
-        left: 0;
-      }
+        &:before {
+            right: 0;
+            left: 0;
+        }
     }
 }
 
 body {
     line-height: 1.5;
     color: $text-colour;
-    font-size: 18px;
     background: $background-color;
     padding-top: 60px;
 }
 
 .container {
-    width: $body-width;
-    margin: 0 auto;
     padding-bottom: 4rem;
+
+    @media screen and (min-width: 800px) {
+        width: $body-width;
+        margin: 0 auto;
+        font-size: 18px;
+    }
+
+    @media screen and (max-width: 900px) {
+        box-sizing: border-box;
+        width: 100%;
+        font-size: 28px;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
 }
 
 header {
@@ -73,18 +84,25 @@ header {
     width: 100%;
     background: $background-color;
     text-align: center;
+
     h1 {
         @include underline-from-center;
 
     }
 
-    a, a:visited {
+    a,
+    a:visited {
         color: $text-colour;
         text-decoration: none;
     }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: $decoration-font-family;
     margin-bottom: 0;
 }
@@ -110,7 +128,8 @@ pre {
     padding: 1em;
 }
 
-pre, code {
+pre,
+code {
     overflow: auto;
     font-family: $code-font-family;
     margin-bottom: 0;
@@ -118,7 +137,7 @@ pre, code {
     color: $code-colour;
 }
 
-p > code {
+p>code {
     padding: 3px 5px;
     border-radius: 4px;
     font-size: 90%;
@@ -144,11 +163,11 @@ article {
         margin-top: 1em;
     }
 
-    h1 + p {
+    h1+p {
         margin-top: 0.3em;
     }
 
-    h2 + p {
+    h2+p {
         margin-top: 0.1em;
     }
 }
@@ -163,7 +182,7 @@ blockquote {
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .125);
 
     p {
-      margin: 0;
+        margin: 0;
     }
 }
 
@@ -177,7 +196,7 @@ blockquote {
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .125);
 
     p {
-      margin: 0;
+        margin: 0;
     }
 
     h3 {
