@@ -12,7 +12,7 @@ Celui-ci était particulièrement pénible et pas vraiment réutilisable.
 Il était temps de faciliter la génération des données et de permettre à tout le monde
 de faire ses propres cartes.
 
-Quelques exemples de cartes sont visibles [par ici](https://cloud.tristramg.eu/index.php/s/nKTxqGmDXBNfSs2).
+Quelques exemples de cartes sont visibles [par ici](https://kdrive.infomaniak.com/app/share/880730/511b5eb2-8e8b-4904-ba1a-451b9269c993).
 
 ![Routes depuis Niamey, Niger](../images/routes_depuis/africa.webp)
 
