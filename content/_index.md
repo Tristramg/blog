@@ -6,7 +6,7 @@ page_template = "blog-page.html"
 +++
 
 ## Je suis Tristram.
-* Je produit du code, selon l’humeur du moment, sur :
+* Je produis du code, selon l’humeur du moment, sur :
     * [gitlab](https://gitlab.com/tristramg)
     * [github](https://github.com/tristramg)
 * Je raconte des trucs décousus sur <a rel="me" href="https://mamot.fr/@tristramg">Mastodon</a> et <a rel="me" href="https://bsky.app/profile/tristramg.eu">Bluesky</a>
@@ -15,4 +15,4 @@ page_template = "blog-page.html"
     * [la zone](https://tristramg.github.io/lazone/) : expérimentation pour raconter l’histoire des limites de Paris
     * [mon cv en carte](https://tristramg.github.io/) : évidemment pas à jour
     * [toutes les routes depuis…](https://kdrive.infomaniak.com/app/share/880730/511b5eb2-8e8b-4904-ba1a-451b9269c993)
-* Et je racontre des trucs qui vieillissent mal sur ce blog
+* Et je raconte des trucs qui vieillissent mal sur ce blog
