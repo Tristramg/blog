@@ -1,0 +1,1989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title></title>
+    <link href="https://tristramg.eu/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://tristramg.eu"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-17T00:00:00+00:00</updated>
+    <id>https://tristramg.eu/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Les coopératives, capitalisme et révolution</title>
+        <published>2024-03-17T00:00:00+00:00</published>
+        <updated>2024-03-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/cooperatives/" type="text/html"/>
+        <id>https://tristramg.eu/cooperatives/</id>
+        
+        <content type="html">&lt;p&gt;Les coopératives sont un sujet qui m’occupe beaucoup. Je travaille dans une &lt;a href=&quot;https:&#x2F;&#x2F;codeursenliberte.fr&quot;&gt;coopérative&lt;&#x2F;a&gt; depuis son début ; j’en parlais déjà dans &lt;a href=&quot;&#x2F;democratie&quot;&gt;Anarchy in the IT&lt;&#x2F;a&gt; il y a bientôt huit ans ; je participe à la rédaction d’un guide pour recueillir des témoignages de fonctionnement de coopératives en informatique : &lt;a href=&quot;https:&#x2F;&#x2F;codecode.coop&#x2F;&quot;&gt;codecode.coop&lt;&#x2F;a&gt; ; je fais attention à ce que &lt;a href=&quot;https:&#x2F;&#x2F;www.enercoop.fr&#x2F;&quot;&gt;mon fournisseur d’électricité&lt;&#x2F;a&gt; soit une coopérative et que ma complémentaire santé et mes banques soient mutualistes.&lt;&#x2F;p&gt;
+&lt;p&gt;Mais malgré tout cet attachement aux coopératives, je reste hésitant sur leur rôle dans une perspective révolutionnaire. Le débat organisé par l’&lt;a href=&quot;https:&#x2F;&#x2F;www.unioncommunistelibertaire.org&#x2F;&quot;&gt;Union Communiste Libertaire&lt;&#x2F;a&gt; avec le titre &lt;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;paris-luttes.info&#x2F;apero-debat-cooperatives-de-17913&quot;&gt;Coopératives de production et communisme libertaire&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; résonnait donc avec mes interrogations.&lt;&#x2F;p&gt;
+&lt;p&gt;La soirée était très riche et je remercie vraiment les organisateurices.&lt;&#x2F;p&gt;
+&lt;p&gt;La suite est un peu la synthèse de ce qui flottait dans ma tête, en partie renforcé par le débat, en partie remis en question. Par contre il ne s’agit en aucun cas d’une synthèse de ce qui y a été dit. Les points de vue étaient variés et les angles de réflexion multiples.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;la-cooperative-c-est-pour-se-proteger-du-capitalisme&quot;&gt;La coopérative, c’est pour se protéger du capitalisme&lt;&#x2F;h2&gt;
+&lt;p&gt;J’ai tendance à considérer que les coopératives ne sont qu’un détournement des règles sur les entreprises capitalistes pour se créer un petit cocon protecteur.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;les coopératives de travailleur·euse·s permettent de garder la plus-value qui ne finit pas dans les poches d’un patron&lt;&#x2F;li&gt;
+&lt;li&gt;les coopératives agricoles permettent d’accéder à un matériel que les faibles marges de paysan·ne n’autoriseraient pas&lt;&#x2F;li&gt;
+&lt;li&gt;les coopératives de consommateurices permettent de ne pas se faire avoir par la grande distribution&lt;&#x2F;li&gt;
+&lt;li&gt;les coopératives d’habitation permettent de casser la spéculation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bref, dans toutes ces formes de coopérative, il s’agit de s’unir pour moins subir le capitalisme. Sans capitalisme, c’est-à-dire sans le besoin de capitaux pour créer les moyens de production et sans transaction financière pour échanger des biens et des services les coopératives n’ont plus de raison d’exister.&lt;&#x2F;p&gt;
+&lt;p&gt;Évidemment, on pourrait considérer que les usines contrôlées par les syndicats tels que la &lt;a href=&quot;https:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Conf%C3%A9d%C3%A9ration_nationale_du_travail_(Espagne)&quot;&gt;CNT espagnole&lt;&#x2F;a&gt; pendant la période anarchiste en Catalogne sont des coopératives. Il s’agit ici de débat sur les mots – et à titre personnel – je ne pense pas que l’on puisse parler de coopératives.&lt;&#x2F;p&gt;
+&lt;p&gt;C’est pour cela que je ne suis pas favorable à une certaines tendance à édulcorer le vocabulaire capitaliste lorsqu’on parle de coopérative. Je préfère dire « actionnaire » et non pas « sociétaire » et rappeler qu’une &lt;a href=&quot;https:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Soci%C3%A9t%C3%A9_coop%C3%A9rative_et_participative&quot;&gt;SCOP&lt;&#x2F;a&gt; est une entreprise à but lucratif (contrairement aux associations loi 1901). &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;cela-pourrait-etre-un-moyen&quot;&gt;Cela pourrait être un moyen&lt;&#x2F;h2&gt;
+&lt;p&gt;Il y a tout de même un rêve qui émerge : et si on chainait toutes ces coopératives ? L’agriculteurice se procure ses outils auprès d’une SCOP, distribue ses légumes par une coopérative que seront vendus dans un supermarché coopératif aux ouvrier·es de la SCOP qui habitent dans une coopérative d’habitants.&lt;&#x2F;p&gt;
+&lt;p&gt;On a donc un tout un pan de l’économie qui échappe à la spéculation et à la propriété lucrative. C’est ce qu’essayent de pousser les &lt;em&gt;coopératives intégrales&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Il y a aussi les &lt;a href=&quot;https:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Soci%C3%A9t%C3%A9_coop%C3%A9rative_d%27int%C3%A9r%C3%AAt_collectif&quot;&gt;SCIC&lt;&#x2F;a&gt;, une forme de coopérative où le but est de mettre toutes les parties prenantes dans la même structure. Par exemple chez Enercoop, les salarié·e·s, client·e·s et producteurices sont actionnaires malgré des intérêts personnels contradictoires.&lt;&#x2F;p&gt;
+&lt;p&gt;Ce genre de structures laissent donc entrevoir une approche pour totalement sortir des échanges marchands et finalement être révolutionnaires.&lt;&#x2F;p&gt;
+&lt;p&gt;Peut-être par esprit de contrariété, j’aurais tendance à ne pas considérer ces super-coop comme des coopératives. À chacun·e de se faire son opinion.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;les-cooperatives-restent-une-condition-necessaire&quot;&gt;Les coopératives restent une condition nécessaire&lt;&#x2F;h2&gt;
+&lt;p&gt;Si on considère que l’on doit sortir de la ploutocratie des entreprises (&lt;em&gt;plus d’action = plus de pouvoir&lt;&#x2F;em&gt;) pour aller vers de la démocratie (&lt;em&gt;l’avis de chaque personne est aussi important, quelque soit le nombre d’actions détenues&lt;&#x2F;em&gt;), alors la coopérative est forcément un point de passage.&lt;&#x2F;p&gt;
+&lt;p&gt;La coopérative doit aussi être un lieu d’apprentissage de nouveaux moyens de prise de décision et d’expérimentation. Il faut en permanence s’aiguillonner pour sortir du confort et de l’auto-congratulation qu’une coopérative c’est quand même vachement mieux. Il faut rejoindre les syndicats pour renforcer la lutte des classes et voir un avenir plus désirable se construire, sans attendre le grand soir.&lt;&#x2F;p&gt;
+&lt;p&gt;La coopérative peut donc être un outil pour réfléchir à la révolution et tester certaines idées &lt;em&gt;in vivo&lt;&#x2F;em&gt;, mais ne doit en aucun cas être une fin en soi.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Cartes espagnoles historiques d’arpentage</title>
+        <published>2024-02-18T00:00:00+00:00</published>
+        <updated>2024-02-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/ign-es/" type="text/html"/>
+        <id>https://tristramg.eu/ign-es/</id>
+        
+        <content type="html">&lt;p&gt;Cette carte a été un temps mon fond d’écran et a souvent suscité des questions. Cliquez pour avoir l’original (4,0 Mo).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;..&#x2F;images&#x2F;ign_es&#x2F;440784.jpg&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;ign_es&#x2F;440784.webp&quot; alt=&quot;Ancienne carte avec un cartouche Instituto Geográfico y Estadistico&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Je l’ai trouvé sur le &lt;a href=&quot;http:&#x2F;&#x2F;centrodedescargas.cnig.es&#x2F;CentroDescargas&#x2F;index.jsp#&quot;&gt;centre de téléchargement de l’IGN espagnol&lt;&#x2F;a&gt; et représente un coin d’espagne où je vais souvent.&lt;&#x2F;p&gt;
+&lt;iframe width=&quot;750&quot; height=&quot;600&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; src=&quot;https:&#x2F;&#x2F;www.ign.es&#x2F;iberpix&#x2F;visor?center=14615.13468965101,4990547.488449814&amp;zoom=14&amp;layers=WMS*MTN25 - Cuadriculas MTN25 - RegCan95*https:&#x2F;&#x2F;www.ign.es&#x2F;wms-inspire&#x2F;cuadriculas*Grid-REGCAN95-lonlat-25k*true*false**1.3.0*true*true*true,GeoJSON*temp_1708186099780*eyJ0eXBlIjoiRmVhdHVyZUNvbGxlY3Rpb24iLCJmZWF0dXJlcyI6W3sidHlwZSI6IkZlYXR1cmUiLCJpZCI6InRlbXBfMTcwODE4NjA5OTc4MC4xNzA4MTg2MTQ4ODA5IiwiZ2VvbWV0cnkiOnsidHlwZSI6IlBvbHlnb24iLCJjb29yZGluYXRlcyI6W1tbMC4xMDgyODczNjQyMDAwNzA0Myw0MC44ODk5ODA5MDczNzU0NDUsNDUwXSxbMC4xMDE1OTI1NzA0OTg4OTg1Nyw0MC44ODI4NDMxNDQ5NzcxOSw0NTddLFswLjA5MDI2MjkxOTYxOTk5MjMyLDQwLjg3ODE3MDczODE2Nyw0NjguMzEyXSxbMC4wODgzNzQ2NDQ0NzM1MDc5Myw0MC44NzU4MzQ0MTEwNzYxNCw0NzIuNzI3XSxbMC4wODY4Mjk2OTIwODA5Mjk4Miw0MC44NjYzNTg0NjE0NzMzMSw0NzkuNjMyXSxbMC4wODM1NjgxMjU5MTg4MjA0Myw0MC44NjUwNjAyODA1NzQwODUsNDc1LjU1MV0sWzAuMDc4OTMzMjY4NzQxMDg2MDcsNDAuODY2NzQ3OTEwNzgwNyw0OTldLFswLjA3NTE1NjcxODQ0ODExNzMsNDAuODY3NTI2ODAyNTI0NDgsNTAyLjcyMV0sWzAuMDc2MzU4MzQ4MDg2Nzg5MTgsNDAuODYwNjQ2Mjc1MTY2OTcsNTQ5LjQyMV0sWzAuMDgyNTM4MTU3NjU3MTAxNzEsNDAuODU2NDkxNjQ4NDEyMjMsNjQ3LjgzMV0sWzAuMDgzMDUzMTQxNzg3OTYxMDgsNDAuODUxNjg3NTM2Mzk4MzcsNzY2LjIyMl0sWzAuMDg2ODI5NjkyMDgwOTI5ODIsNDAuODUwNjQ4NzYzNjcyOTgsNzYyLjY5NF0sWzAuMDg3ODU5NjYwMzQyNjQ4NTgsNDAuODUwNjQ4NzYzNjcyOTgsNzY2LjI2NF0sWzAuMDg3MzQ0Njc2MjExNzg5Miw0MC44NDc0MDI0OTM5NDEzLDc4OC45MDRdLFswLjA4OTQwNDYxMjczNTIyNjcxLDQwLjg0NjM2MzY1NDAzODc4LDc5NV0sWzAuMDk0ODk3Nzc2Nzk3NzI2NzIsNDAuODM4MzEyMDkyNjMyNTIsNzk3LjE2XSxbMC4wOTExMjEyMjY1MDQ3NTc5NCw0MC44MzQ4MDU0NjE3ODYwMDQsODUxXSxbMC4wOTQ1NTQ0NTQwNDM4MjA0Niw0MC44Mjc1MzE4NTgzNDQzNyw4NjEuODE1XSxbMC4wOTc0NzI2OTc0NTIwMjM1OCw0MC44MjYyMzI5MTY2MjM4OTQsODYxLjAzMV0sWzAuMDk5NTMyNjMzOTc1NDYxMDcsNDAuODI2MTAzMDIxMDUyNDYsODMwLjUyMl0sWzAuMTAyMjc5MjE2MDA2NzExMDgsNDAuODI0ODA0MDUxMzQ0Nzg1LDcxMy4xNTNdLFswLjEwNTM2OTEyMDc5MTg2NzMzLDQwLjgzNjEwNDIzNTU3OSw2MzguNjA0XSxbMC4xMDc3NzIzODAwNjkyMTEwOCw0MC44NDM1MDY3NjAzMzY3OTQsNjMxLjkwNF0sWzAuMTE5MTAyMDMwOTQ4MTE3MzMsNDAuODUzMTE1ODIyMzA0NTIsNjAxLjEyNV0sWzAuMTM2NzgzMTUyNzc0Mjg5Miw0MC44NTY2MjE0ODQ0NDI2LDU0MC4zNjVdLFswLjE1MDY4NzcyNDMwNzQ5MjMzLDQwLjg2MDM4NjYxODYyODk1LDUyMF0sWzAuMTU0NDY0Mjc0NjAwNDYxMDUsNDAuODcyNDU5NTcwODE5Mjc0LDQ5M10sWzAuMTQzODIxMjY5MjI5MzY3MzMsNDAuODcyOTc4Nzg4MjEwMjUsNDc5LjcyMl0sWzAuMTM4ODQzMDg5Mjk3NzI2Nyw0MC44NzMxMDg1OTE5MjE3OCw1MTcuMjM5XSxbMC4xMzQ3MjMyMTYyNTA4NTE3LDQwLjg3NzM5MTk3MTYzMTg4LDQ4Nl0sWzAuMTMwNzc1MDA0NTgwOTI5ODMsNDAuODgxNDE1NTAwMTEyMjQsNDkxLjY1N10sWzAuMTE3OTAwNDAxMzA5NDQ1NDQsNDAuODgyODQzMTQ0OTc3MTksNTA4LjI2Nl0sWzAuMTA4Mjg3MzY0MjAwMDcwNDYsNDAuODkwMTEwNjc3NzQ3MzcsNDUyLjY3MV0sWzAuMTA4Mjg3MzY0MjAwMDcwNDMsNDAuODg5OTgwOTA3Mzc1NDQ1LDQ1MF1dXX0sInByb3BlcnRpZXMiOnt9fV0sImNycyI6eyJwcm9wZXJ0aWVzIjp7Im5hbWUiOiJFUFNHOjQzMjYifSwidHlwZSI6Im5hbWUifX0=**eyJwYXJhbWV0ZXJzIjpbeyJwb2ludCI6eyJmaWxsIjp7ImNvbG9yIjoicmdiYSgyNTUsIDI1NSwgMjU1LCAwLjQpIiwib3BhY2l0eSI6MC40fSwic3Ryb2tlIjp7ImNvbG9yIjoiIzMzOTlDQyIsIndpZHRoIjoxLjV9LCJyYWRpdXMiOjV9LCJsaW5lIjp7ImZpbGwiOnsiY29sb3IiOiJyZ2JhKDI1NSwgMjU1LCAyNTUsIDAuNCkiLCJvcGFjaXR5IjowLjR9LCJzdHJva2UiOnsiY29sb3IiOiIjMzM5OUNDIiwid2lkdGgiOjEuNX19LCJwb2x5Z29uIjp7ImZpbGwiOnsiY29sb3IiOiJyZ2JhKDI1NSwgMjU1LCAyNTUsIDAuNCkiLCJvcGFjaXR5IjowLjR9LCJzdHJva2UiOnsiY29sb3IiOiIjMzM5OUNDIiwid2lkdGgiOjEuNX19fV0sImRlc2VyaWFsaXplZE1ldGhvZCI6Iigoc2VyaWFsaXplZFBhcmFtZXRlcnMpID0+IE0uc3R5bGUuU2ltcGxlLmRlc2VyaWFsaXplKHNlcmlhbGl6ZWRQYXJhbWV0ZXJzLCAnTS5zdHlsZS5HZW5lcmljJykpIn0=&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;p&gt;Les anciennes cartes, c’est toujours attirant. Mais celle-ci a la particularité d’être une carte de travail de 1919. C’est un brouillon pour ce qui allait devenir la première carte espagnole en qualité au &lt;code&gt;1:50000&lt;&#x2F;code&gt;. Un travail qui a commencé en 1875 pour se finir en 1968.&lt;&#x2F;p&gt;
+&lt;p&gt;En explorant la carte dans ses détails, on découvre les chemins d’arpentage : par où sont passées les personnes pour prendre les mesures permettant de créer la carte. Le tracé rouge est le parcours, en noir le numéro de relevé et en rouge l’altitude calculée.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;ign_es&#x2F;extrait.webp&quot; alt=&quot;Un extrait montrant un bout de parcours&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Mais les archives de l’IGN contiennent également les cahiers d’arpentage ! On y voit toutes les mesures faites par &lt;em&gt;topographe auxiliaire&lt;&#x2F;em&gt; Alberto López, contre-signés par &lt;em&gt;l’ingénieur en chef de la 1ère brigade&lt;&#x2F;em&gt; José Alfaro et enfin &lt;em&gt;l’ingénieur en chef du centre&lt;&#x2F;em&gt; Enrique Merguer. Cliquez pour télécharger le PDF avec toutes les pages (3,5 Mo).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;..&#x2F;images&#x2F;ign_es&#x2F;CUALL_0081581.pdf&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;ign_es&#x2F;cuaderno.webp&quot; alt=&quot;Page de garde du cahier d’arpentage&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;On peut donc faire le lien entre l’aprentage, et la carte, voici un extrait côte-à-côte de la carte et des mesures. Je suppose que les inscriptions au crayon sont les mesures, tandis qu’à la plume se sont les résultats calculés &lt;em&gt;a posteriori&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;ign_es&#x2F;cuaderno_y_mapa.webp&quot; alt=&quot;Carnet d’aprentage et un extrait de la carte montrant la correspondance entre deux lignes du carnet et deux points sur la carte&quot; &#x2F;&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;C’est tout ce que j’ai à dire. Je conclus donc avec les pleines et les déliées de la signature du topographe auxiliaire López.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;ign_es&#x2F;l%C3%B3pez.webp&quot; alt=&quot;Signature de López&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;PS : si ce sujet vous fascine autant que moi, voici quelques conseils de lecture&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.leslibraires.fr&#x2F;livre&#x2F;1897303-le-metre-du-monde-denis-guedj-points&quot;&gt;Le Mètre du monde&lt;&#x2F;a&gt; de Denis Guedj&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.leslibraires.fr&#x2F;livre&#x2F;11521745-le-proces-des-etoiles-recit-de-la-prestigieuse--florence-trystram-payot&quot;&gt;Le Procès des étoiles&lt;&#x2F;a&gt; de Florence Trystram (aucun lien)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.leslibraires.fr&#x2F;livre&#x2F;12967192-la-femme-du-cartographe-une-histoire-vraie-d-a--robert-whitaker-payot&quot;&gt;La femme du cartographe&lt;&#x2F;a&gt; de Robert Whitaker&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Salaires : le mien et combien serait juste ?</title>
+        <published>2021-02-03T00:00:00+00:00</published>
+        <updated>2021-02-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/salaire/" type="text/html"/>
+        <id>https://tristramg.eu/salaire/</id>
+        
+        <content type="html">&lt;blockquote class=&quot;update&quot;&gt;
+    &lt;h3&gt;Mise à jour le 2024-2-18&lt;&#x2F;h3&gt;
+    C’est un sujet qui reste difficile à discuter.&lt;&#x2F;p&gt;
+&lt;p&gt;À titre personnel, j’ai réduit mon taux à 550 €.&lt;&#x2F;p&gt;
+&lt;p&gt;Mais avec la &lt;a href=&quot;https:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Prime_de_partage_de_la_valeur&quot;&gt;prime partage de la valeur&lt;&#x2F;a&gt;, la &lt;a href=&quot;https:&#x2F;&#x2F;www.economie.gouv.fr&#x2F;particuliers&#x2F;suppression-des-cotisations-chomage-et-maladie-pour-salaries-secteur-prive&quot;&gt;suppression de certaines cotisations salariales&lt;&#x2F;a&gt; et les &lt;a href=&quot;https:&#x2F;&#x2F;entreprendre.service-public.fr&#x2F;actualites&#x2F;A17115&quot;&gt;réductions des cotisations patronales&lt;&#x2F;a&gt;, je dirais que le salaire qui finit sur mon compte en banque a augmenté — au dépends bien sûr d’une solidarité avec les travailleurs et travailleuses moins bien loti·e·s que moi.
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;La question des salaires m’a toujours gênée. Ce blog post permet de poser différents aspects qui me travaillent, sans pour autant répondre à ce qu’il faudrait faire. Tout juste j’énonce des banalités « y’a des énormes injustices » et « je suis un sacré privilégié ».&lt;&#x2F;p&gt;
+&lt;p&gt;Il faut différencier :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;qu’est-ce qu’un revenu équitable ?&lt;&#x2F;li&gt;
+&lt;li&gt;de combien j’ai besoin pour mon style de vie ?&lt;&#x2F;li&gt;
+&lt;li&gt;combien est-ce que je vaux ?&lt;&#x2F;li&gt;
+&lt;li&gt;comment ça s’applique lorsqu’on facture à la journée ?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Mais écartons tout de suite le tabou de parler d’argent ; il permet au patronat d’utiliser une carotte, sans que les collègues s’en rendent compte. Tous les travailleurs y perdent. Parlez de vos salaires entre collègues !&lt;&#x2F;p&gt;
+&lt;p&gt;Je ne vais parler que de l’informatique. Par nombrilisme et parce qu’on y voit facilement des inégalités qui ne peuvent pas être justifiées par les hiérarchies traditionnelles telles que cadre vs. ouvrier.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;revenu-equitable&quot;&gt;Revenu équitable&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;un-exemple-de-startup&quot;&gt;Un exemple de startup&lt;&#x2F;h2&gt;
+&lt;p&gt;À titre individuel, on souhaite bien sûr toujours un petit peu plus.
+Pour plus de confort matériel, pour se rassurer quant à l’avenir, pour être reconnu pour le travail effectué…
+C’est totalement légitime, mais cela ne permet pas de dessiner une société plus juste.&lt;&#x2F;p&gt;
+&lt;p&gt;Pendant qu’on prépare la révolution qui finira par nous amener au communisme, c’est-à-dire à une société sans argent (entre autres), posons-nous la question si on mérite vraiment nos revenus.&lt;&#x2F;p&gt;
+&lt;p&gt;Prenons la &lt;a href=&quot;https:&#x2F;&#x2F;blog.alan.com&#x2F;bien-etre-au-travail&#x2F;au-clair-sur-les-salaires&quot;&gt;grille de salaire de Alan&lt;&#x2F;a&gt; :&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;grille_alan.png&quot; alt=&quot;Grille de salaire de Alan&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;L’entreprise revendique un rapport de 8 entre salaires (à ancienneté égale il peut toujours y avoir un facteur 6).&lt;&#x2F;p&gt;
+&lt;p&gt;En cas de succès pour les fondateurs et investisseurs (rachat par une autre entreprise ou introduction en bourse), on pourrait espérer une atténuation des inégalités.
+C’est tout le contraire. Avec les &lt;a href=&quot;https:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Stock_option&quot;&gt;BSPCE&lt;&#x2F;a&gt; (&lt;em&gt;stock options&lt;&#x2F;em&gt; en France), entre deux salariés, il peut y avoir un écart d’un facteur 750 !&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;equity_alan.png&quot; alt=&quot;Grille des BSPCE de Alan&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;que-disent-les-statistiques&quot;&gt;Que disent les statistiques ?&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;la-moyenne&quot;&gt;La moyenne&lt;&#x2F;h3&gt;
+&lt;p&gt;Selon l’&lt;a href=&quot;https:&#x2F;&#x2F;www.insee.fr&#x2F;fr&#x2F;statistiques&#x2F;4277680?sommaire=4318291&quot;&gt;INSEE&lt;&#x2F;a&gt;, en 2016, pour les salariés, le salaire moyen équivalent temps plein était de &lt;code&gt;2 238 €&lt;&#x2F;code&gt; nets, soit environ &lt;code&gt;35 000 €&lt;&#x2F;code&gt; bruts.&lt;&#x2F;p&gt;
+&lt;p&gt;Les salaires de la &lt;a href=&quot;https:&#x2F;&#x2F;www.insee.fr&#x2F;fr&#x2F;statistiques&#x2F;4277685?sommaire=4318291&quot;&gt;fonction publique&lt;&#x2F;a&gt;, sont légèrement plus faibles à &lt;code&gt;1 944 €&lt;&#x2F;code&gt;, mais ne changeront pas significativement la statistique.&lt;&#x2F;p&gt;
+&lt;p&gt;En revanche, il manque tous les revenus précaires (au noir, micro-entreprise, temps partiel forcé…).&lt;&#x2F;p&gt;
+&lt;p&gt;Cela permet clairement d’affirmer : si vous gagnez plus de &lt;code&gt;2 200 €&lt;&#x2F;code&gt; nets, vous contribuez à l’accroissement des inégalités en France.&lt;&#x2F;p&gt;
+&lt;p&gt;Cependant, n’allez pas vous flageller tout de suite. Inégalité ne veut pas forcément dire injustice ; vous avez peut-être des personnes à charge, un loyer parisien, besoin d’une voiture pour aller travailler, ou encore un prêt étudiant à rembourser…&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;les-deciles&quot;&gt;Les déciles&lt;&#x2F;h3&gt;
+&lt;p&gt;Une moyenne ne dit cependant pas grand chose : si Bernard Arnault passe prendre un ballon de muscadet dans un troquet, en moyenne, tous les clients sont millardaires.&lt;&#x2F;p&gt;
+&lt;p&gt;Selon &lt;a href=&quot;https:&#x2F;&#x2F;www.insee.fr&#x2F;fr&#x2F;statistiques&#x2F;4774578?sommaire=4774594&quot;&gt;l’INSEE&lt;&#x2F;a&gt;, pour une personne vivant seule, sans enfants :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;50 % gagne moins de &lt;code&gt;19 010 €&lt;&#x2F;code&gt;&#x2F;an&lt;&#x2F;li&gt;
+&lt;li&gt;90 % gagne moins de &lt;code&gt;34 740 €&lt;&#x2F;code&gt;&#x2F;an&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Donc si vous gagnez plus de &lt;code&gt;3 000 €&lt;&#x2F;code&gt; par mois, avant impôts sur les revenus, vous êtes dans le 10 % des plus hauts revenus de France.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;que-dire-de-ces-statistiques&quot;&gt;Que dire de ces statistiques&lt;&#x2F;h3&gt;
+&lt;p&gt;Probablement rien. Ça permet juste de ne pas oublier que nous sommes privilégiés. Il est important de se rappeler que l’écrasante majorité de la population française (plus de 90 %) gagne moins de 3 fois le SMIC.&lt;&#x2F;p&gt;
+&lt;p&gt;Quand on voit que la tranche à 41 % de l’impôt sur les revenus ne s’applique qu’aux revenus au delà de &lt;code&gt;73 517 €&lt;&#x2F;code&gt;…&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;besoin-de-combien-pour-vivre&quot;&gt;Besoin de combien pour vivre&lt;&#x2F;h1&gt;
+&lt;p&gt;Voici combien je gagne, pour quel temps de travail et comment j’emploie ces revenus.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;temps-de-travail&quot;&gt;Temps de travail&lt;&#x2F;h2&gt;
+&lt;p&gt;La convention collective &lt;a href=&quot;https:&#x2F;&#x2F;www.syntec.fr&#x2F;convention-collective&#x2F;&quot;&gt;syntec&lt;&#x2F;a&gt; qui régit la plupart des développeurs définit qu’une année ouvrée comporte 218 jours travaillés (5 semaines de congés, environ 10 jours de RTT, soit 7 semaines de vacances au total).&lt;&#x2F;p&gt;
+&lt;p&gt;J’ai choisi d’être aux 3&#x2F;5ème, soit 130 jours selon cette convention.&lt;&#x2F;p&gt;
+&lt;p&gt;Chaque mois que je travaille, je consacre un jour à Codeurs en Liberté (quand c’est mon tour de faire la compta, échanges internes et externes…), soit 10 jours par an.&lt;&#x2F;p&gt;
+&lt;p&gt;Cela fait donc 120 jours de travail que je facture par an.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;combien-facturer&quot;&gt;Combien facturer&lt;&#x2F;h2&gt;
+&lt;p&gt;Si j’étais salarié d’une entreprise de conseil ou de prestation, avec mes 13 ans d’expérience professionnelle, je suppose que je serais facturé environ &lt;code&gt;1000 €&lt;&#x2F;code&gt;&#x2F;jour aux clients.&lt;&#x2F;p&gt;
+&lt;p&gt;Cependant chez Codeurs en Liberté, nous n’avons pas de locaux, pas de commerciaux et pas d’actionnaires à engraisser.&lt;&#x2F;p&gt;
+&lt;p&gt;Nous facturons donc habituellement &lt;code&gt;600 €&lt;&#x2F;code&gt; par jour et par personne pour les contrats récurrents (moins pour les petits clients que nous aimons bien et &lt;code&gt;800 €&lt;&#x2F;code&gt; pour les interventions très courtes).&lt;&#x2F;p&gt;
+&lt;p&gt;Je facture donc environ &lt;code&gt;72 000 €&lt;&#x2F;code&gt; par an.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mes-besoins&quot;&gt;Mes besoins&lt;&#x2F;h2&gt;
+&lt;p&gt;Je suis conscient d’être dans une situation particulière. En particulier je n’ai personne à charge, je n’ai pas besoin de voiture et je suis locataire. J’ai donc des dépenses assez restreintes. Il ne s’agit pas de pointer du doigt ceux qui ont d’autres besoins. Je pars juste de ma situation personnelle pour alimenter la discussion.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Loyer : 12 000 €&lt;&#x2F;li&gt;
+&lt;li&gt;Épargne : 12 000 € (3 000 € en versements, 9 000 € en abondement)&lt;&#x2F;li&gt;
+&lt;li&gt;Factures récurrentes : 2 000 € (internet, téléphone, électricité, Netflix, Spotify, Mediapart, assurance…)&lt;&#x2F;li&gt;
+&lt;li&gt;Dons et cotisations : 1 000 € (&lt;a href=&quot;&#x2F;syndicat&quot;&gt;syndicat&lt;&#x2F;a&gt; et associations, fortement déductibles des impôts)&lt;&#x2F;li&gt;
+&lt;li&gt;Dépenses courantes : 9 000 € (alimentation, fringues, culture, beaucoup trop de bars…)&lt;&#x2F;li&gt;
+&lt;li&gt;Vacances : 2 000 € (billets de train, hébergements, activités…)&lt;&#x2F;li&gt;
+&lt;li&gt;Achat d’équipements : 1 000 € (ordinateur, vélo de voyage, clarinette… des choses entre 1 000 et 2 000€ qui durent entre 5 et 10 ans)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Total&lt;&#x2F;strong&gt; : 38 000€ par an.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;dataviz&quot;&gt;Dataviz&lt;&#x2F;h2&gt;
+&lt;p&gt;Ça n’apporte pas grand chose au débat et ça ne colore même pas l’article, voici un intermède.&lt;&#x2F;p&gt;
+&lt;p&gt;Où va l’argent depuis les sommes facturées aux clients jusqu’aux différents usages.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;flux_argent.svg&quot; alt=&quot;Diagramme des flux d’argent de la facture à la dépense&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;et-maintenant&quot;&gt;Et maintenant ?&lt;&#x2F;h1&gt;
+&lt;p&gt;Je ne travaille que 3 jours sur 5, mes revenus me placent dans le 10 % des plus hauts revenus et j’épargne l’équivalent de l’intégralité des revenus de 10 % de la population.
+En plus j’ai déjà un patrimoine confortable (1&#x2F;3 d’héritage, 1&#x2F;3 de BPSCE, 1&#x2F;3 d’épargne).&lt;&#x2F;p&gt;
+&lt;p&gt;Je suis donc très à l’aise, probablement un peu trop. Est-ce que j’ai besoin de dépenser un SMIC entier, après avoir payé mon loyer ? Ai-je besoin d’accumuler tant d’argent ?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reduire-les-besoins&quot;&gt;Réduire les besoins&lt;&#x2F;h2&gt;
+&lt;p&gt;D’une part, je peux donc réduire mes besoins&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Je n’ai pas besoin d’épargner tant,&lt;&#x2F;li&gt;
+&lt;li&gt;Je pourrais choisir des loisirs moins chers,&lt;&#x2F;li&gt;
+&lt;li&gt;Arrêter de boire autant de pintes de bière parisienne artisanale à 8 €.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;pour-reduire-les-facturations&quot;&gt;Pour réduire les facturations&lt;&#x2F;h2&gt;
+&lt;p&gt;Avec des besoins réduits, je peux réduire les entrées d’argent&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Travailler un peu moins de 3 jours par semaine ou prendre plus de 7 semaines de congés (on se rapproche de la semaine de 15 h)&lt;&#x2F;li&gt;
+&lt;li&gt;Facturer un peu moins par jour (surtout pour des structures qui ne peuvent pas se permettre des taux journaliers aussi absurdes)&lt;&#x2F;li&gt;
+&lt;li&gt;Passer un peu plus de temps sur des projets qui ne rapportent pas&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;bilan&quot;&gt;Bilan&lt;&#x2F;h1&gt;
+&lt;p&gt;Il n’y en a pas.&lt;&#x2F;p&gt;
+&lt;p&gt;Si cet article a permis un &lt;em&gt;reality check&lt;&#x2F;em&gt;, s’il peut être le point de départ d’une réflexion sur notre manière de dépenser, combien gagner, combien facturer, alors il aura servi à quelque chose.&lt;&#x2F;p&gt;
+&lt;p&gt;En ce qui me concerne, il me servira à acter que vraiment, je gagne trop et que je vais y remédier.&lt;&#x2F;p&gt;
+&lt;p&gt;Enfin, mon cas est personnel. Il ne s’applique pas à plein d’autres situations :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;je n’ai pas un emprunt immobilier à rembourser,&lt;&#x2F;li&gt;
+&lt;li&gt;je n’ai pas d’enfants,&lt;&#x2F;li&gt;
+&lt;li&gt;j’ai eu de la chance à la naissance et aux &lt;em&gt;stock options&lt;&#x2F;em&gt;,&lt;&#x2F;li&gt;
+&lt;li&gt;je n’ai pas de dette étudiante.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Vivement la fin de l’argent. Ça sera plus simple. Dans un premier temps au moins, arrêtons de faire des transactions pour les besoins de base (généralisons le tiers payant, appliquons-le au transport et à l’habitat !).&lt;&#x2F;p&gt;
+&lt;p&gt;Je m’emballe, on sort complètement du cadre des ces réflexions, mais je ne savais pas comment conclure.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pourquoi je me suis syndiqué</title>
+        <published>2018-12-20T00:00:00+00:00</published>
+        <updated>2018-12-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/syndicat/" type="text/html"/>
+        <id>https://tristramg.eu/syndicat/</id>
+        
+        <content type="html">&lt;p&gt;Il y a deux ans et demi, dans un
+&lt;a href=&quot;https:&#x2F;&#x2F;tristramg.eu&#x2F;democratie&#x2F;&quot;&gt;blogpost&lt;&#x2F;a&gt;, j’avais
+conclu que se syndiquer aurait pu être une piste pour maintenir un peu
+de démocratie au sein de l’entreprise.&lt;&#x2F;p&gt;
+&lt;p&gt;J’ai finalement passé ce cap en juillet ; j’ai adhéré à la
+&lt;a href=&quot;http:&#x2F;&#x2F;www.cnt-f.org&quot;&gt;CNT&lt;&#x2F;a&gt;. J’ai choisi ce syndicat anarchiste par
+sympathie pour le communisme anti-autoritaire et parce que les syndicats
+de la fédération CNT sont organisés par industrie. Ainsi, dans une
+entreprise, il n’y aura pas un syndicat pour les cadres et un autre pour
+les travailleurs, comme cela peut arriver à la CGT (ce qui n’aide pas
+trop la lutte des classes...).&lt;&#x2F;p&gt;
+&lt;p&gt;Mais pourquoi diable se syndiquer lorsque tout baigne pour moi ? Côté
+privilèges, je suis au top : mâle blanc, cisgenre, milieu trentaine,
+fils d’intellos, trop diplômé, aimant un métier très porteur. Côté
+boulot, j’ai toute la protection sociale d’un salarié tout en pouvant
+faire la fine bouche grâce à &lt;a href=&quot;https:&#x2F;&#x2F;www.codeursenlibert%C3%A9.fr&quot;&gt;Codeurs en
+Liberté&lt;&#x2F;a&gt;, à temps partiel tout en
+gagnant presque trois fois le SMIC.&lt;&#x2F;p&gt;
+&lt;p&gt;Je vois trois raisons : se confronter à la réalité, anticiper des
+conflits et changer la société.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;is-this-real-life&quot;&gt;Is this real life?&lt;&#x2F;h1&gt;
+&lt;p&gt;Entre mes amis d’école d’ingénieur, les collègues, je traine
+essentiellement un milieu très homogène, parmi les 20% des revenus les
+plus élevés de France (voire 10% !). Nos discussions politiques sont
+généralement hors sol. Soit très théoriques, soit très techniques, mais
+déconnectées d’un bon nombre de réalités.&lt;&#x2F;p&gt;
+&lt;p&gt;Les rencontres mensuelles du syndicat comportent un tour de table pour
+échanger sa situation, celle de son lieu de travail, les relations avec
+la hiérarchie et les autres syndicats.&lt;&#x2F;p&gt;
+&lt;p&gt;Les échanges, les conseils et avertissements des camarades permettent de
+mieux se rendre compte de toute la machinerie managériale qui se répète
+et se ressemble quelles que soient les entreprises.&lt;&#x2F;p&gt;
+&lt;p&gt;Le taylorisme et la division du travail sont toujours présents, juste
+noyés dans un vocabulaire trompeur et un paternalisme déguisé en
+bienveillance.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;demissionner-c-est-renoncer&quot;&gt;Démissionner c’est renoncer&lt;&#x2F;h1&gt;
+&lt;p&gt;Ce regard plus critique et expérimenté permettra d’être plus alerte et
+prévenir des problèmes.&lt;&#x2F;p&gt;
+&lt;p&gt;En effet, en informatique nous avons la fâcheuse tendance à laisser une
+situation pourrir (par manque de vigilance, par flemme, par confiance en
+la direction) jusqu’à ce qu’elle devienne invivable, provoquant des
+vagues de démissions.&lt;&#x2F;p&gt;
+&lt;p&gt;C’est confortable : la nouvelle ligne sur le CV est valorisée, le
+salaire augmenté et les nouveaux défis sont motivants.&lt;&#x2F;p&gt;
+&lt;p&gt;Mais c’est dommage de laisser en permanence la situation d’une
+entreprise se dégrader, non ? N’avons-nous pas envie de construire
+quelque chose de plus durable ?&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;changer-la-societe&quot;&gt;Changer la société&lt;&#x2F;h1&gt;
+&lt;p&gt;Bien sûr il y a la volonté de pouvoir faire notre métier.&lt;&#x2F;p&gt;
+&lt;p&gt;Mais au-delà, il y a la volonté d’arriver à une société où chaque
+personne serait libre, c’est-à-dire ne subissant aucune forme de
+domination. Et l’anarcho-syndicalisme est pour moi un moyen
+d’expérimenter de nouvelles formes de travail et préparer les esprits et
+les pratiques pour la révolution à venir.&lt;&#x2F;p&gt;
+&lt;p&gt;Et toi, camarade, tu te syndiques quand ?&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Toutes les routes depuis…</title>
+        <published>2016-12-06T00:00:00+00:00</published>
+        <updated>2016-12-06T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/routes-depuis/" type="text/html"/>
+        <id>https://tristramg.eu/routes-depuis/</id>
+        
+        <content type="html">&lt;p&gt;Il y a quasiment un an, j’avais copié le projet
+&lt;a href=&quot;http:&#x2F;&#x2F;roadstorome.moovellab.com&#x2F;&quot;&gt;Roads to Rome&lt;&#x2F;a&gt; et décrit sur
+&lt;a href=&quot;https:&#x2F;&#x2F;tristramg.eu&#x2F;roads-from-notre&#x2F;&quot;&gt;ici-même&lt;&#x2F;a&gt; le processus.&lt;&#x2F;p&gt;
+&lt;p&gt;Celui-ci était particulièrement pénible et pas vraiment réutilisable.&lt;&#x2F;p&gt;
+&lt;p&gt;Il était temps de faciliter la génération des données et de permettre à tout le monde
+de faire ses propres cartes.&lt;&#x2F;p&gt;
+&lt;p&gt;Quelques exemples de cartes sont visibles &lt;a href=&quot;https:&#x2F;&#x2F;kdrive.infomaniak.com&#x2F;app&#x2F;share&#x2F;880730&#x2F;511b5eb2-8e8b-4904-ba1a-451b9269c993&quot;&gt;par ici&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;routes_depuis&#x2F;africa.webp&quot; alt=&quot;Routes depuis Niamey, Niger&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;osm4routing-en-rust&quot;&gt;osm4routing en rust&lt;&#x2F;h2&gt;
+&lt;p&gt;Il s’agit d’un projet &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Tristramg&#x2F;osm4routing&#x2F;commit&#x2F;cb0da48b02258ebb26a88a382761ff53d55412cf&quot;&gt;très vieux&lt;&#x2F;a&gt;
+dont l’ambition est de permettre d’avoir un graphe dans un format très simple pour faire
+du calcul d’itinéraire tel qu’il est enseigné en théorie des graphes à partir de
+données réelle issues de &lt;a href=&quot;https:&#x2F;&#x2F;www.openstreetmap.org&quot;&gt;OpenStreetMap&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;L’ambition est clairement pédagogique, puisque un calcul d’itinéraire réel nécessite
+beaucoup plus d’informations comme par exemple un modèle plus fin de la vitesse sur chaque tronçon,
+les feux ou encore les interdictions de tourner.&lt;&#x2F;p&gt;
+&lt;p&gt;Alors qu’il s’agissait initialement que d’un outil pour ma thèse, plusieurs personnes
+semblaient s’en servir malgré les nombreuses limitations.&lt;&#x2F;p&gt;
+&lt;p&gt;Parmi les limitations notables de ce projet :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;L’installation difficile étant écrit en C++ et python ;&lt;&#x2F;li&gt;
+&lt;li&gt;OpenStreetMap est passé à format de données bien &lt;a href=&quot;https:&#x2F;&#x2F;wiki.openstreetmap.org&#x2F;wiki&#x2F;PBF_Format&quot;&gt;plus performant&lt;&#x2F;a&gt; ;&lt;&#x2F;li&gt;
+&lt;li&gt;Pas de tests et des petits bugs agaçants pourtant faciles à tester ;&lt;&#x2F;li&gt;
+&lt;li&gt;N’est pas utilisable comme bibliothèque.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Pour toutes ces raisons, et aussi pour avoir un prétexte d’écrire en &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;&quot;&gt;Rust&lt;&#x2F;a&gt;,
+j’ai écrit une &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Tristramg&#x2F;osm4routing2&quot;&gt;nouvelle version&lt;&#x2F;a&gt; corrigeant ces défauts.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;routes_depuis&#x2F;south_america.webp&quot; alt=&quot;Routes depuis Cayo, Équateur&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;roads-from-notre-dame&quot;&gt;Roads from Notre-Dame&lt;&#x2F;h2&gt;
+&lt;p&gt;Une fois &lt;em&gt;osm4routing&lt;&#x2F;em&gt; réécrit, j’ai pu réécrire le projet en le simplifiant considérablement :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Un seul exécutable qui fait tout ;&lt;&#x2F;li&gt;
+&lt;li&gt;Plus de phase d’extraction du réseau routier ;&lt;&#x2F;li&gt;
+&lt;li&gt;Pas de dépendance à Postgresql et PostGIS ;&lt;&#x2F;li&gt;
+&lt;li&gt;Algorithme de Dijkstra au lieu de Bellman-Ford ;&lt;&#x2F;li&gt;
+&lt;li&gt;Pas de valeurs écrites en dur.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Si vous souhaitez créer votre propre carte, voici les étapes :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Installez Rust : https:&#x2F;&#x2F;www.rust-lang.org&#x2F;en-US&#x2F;downloads.html ;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;cargo install roads-from-nd&lt;&#x2F;code&gt; ;&lt;&#x2F;li&gt;
+&lt;li&gt;Trouvez l’&lt;a href=&quot;https:&#x2F;&#x2F;www.openstreetmap.org&#x2F;node&#x2F;677151951&quot;&gt;identifiant OpenStreetMap d’une intersection&lt;&#x2F;a&gt; qui sera le point de départ ;&lt;&#x2F;li&gt;
+&lt;li&gt;Téléchargez la base OpenStreetMap de la zone qui vous intéresse à partir de http:&#x2F;&#x2F;download.geofabrik.de&#x2F;. Comptez au moins autant de mémoire vive que la taille du fichier ;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;roads-from-nd fichier.osm.pbf id_nœud_de_départ résultat.pdf&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Si vous diffusez l’image générée, n’oubliez pas d’attribuer le droit d’auteur
+aux &lt;a href=&quot;https:&#x2F;&#x2F;www.openstreetmap.org&#x2F;copyright&quot;&gt;contributeurs OpenStreetMap&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;routes_depuis&#x2F;japan.webp&quot; alt=&quot;Routes depuis Tokyo, Japon&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Altitudes</title>
+        <published>2016-09-06T00:00:00+00:00</published>
+        <updated>2016-09-06T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/elevations/" type="text/html"/>
+        <id>https://tristramg.eu/elevations/</id>
+        
+        <content type="html">&lt;p&gt;Vouloir représenter des altitudes sur une carte est plutôt courant.&lt;&#x2F;p&gt;
+&lt;p&gt;J’explique ici comment créer de toutes pièces une carte représentant les
+élévations.&lt;&#x2F;p&gt;
+&lt;p&gt;Je voudrais avoir un fond de carte pour mieux représenter les altitudes de
+Paris, à l’échelle d’un cycliste. Les fonds de cartes à l’échelle de France
+avec des altitudes allant jusqu’à presque 5000 mètres ne nous intéressent pas.&lt;&#x2F;p&gt;
+&lt;p&gt;On voudrait exagérer le relief entre 30 et 130 mètres pour pouvoir se rendre compte
+d’un faux plat tel que sur la rue de la République.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;source-de-donnees&quot;&gt;Source de données&lt;&#x2F;h1&gt;
+&lt;p&gt;Les altitudes sont généralement obtenues par des satellites ou pour des mesures plus
+précises par avion.&lt;&#x2F;p&gt;
+&lt;p&gt;Il existe des bases mondiales telles que l’américaine &lt;a href=&quot;https:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Shuttle_Radar_Topography_Mission&quot;&gt;STRM&lt;&#x2F;a&gt; ou la japonaise
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Advanced_Spaceborne_Thermal_Emission_and_Reflection_Radiometer#ASTER_Global_Digital_Elevation_Model&quot;&gt;ASTER&lt;&#x2F;a&gt;.
+Ces deux bases donnent l’altitude d’un point environ tous les 30 mètres.&lt;&#x2F;p&gt;
+&lt;p&gt;En France, l’IGN a met à disposition des données ouvertes dans la base
+&lt;a href=&quot;http:&#x2F;&#x2F;professionnels.ign.fr&#x2F;bdalti&quot;&gt;BD ALTI&lt;&#x2F;a&gt;. La précision est d’un
+point tous les 75m. Elle n’a donc strictement aucun intérêt par rapport aux
+bases mondiales. Il existe aussi la &lt;a href=&quot;http:&#x2F;&#x2F;professionnels.ign.fr&#x2F;rgealti&quot;&gt;RGE ALTI&lt;&#x2F;a&gt; de l’IGN avec une précision
+remarquable de 5 mètres, mais je n’ai jamais eu l’occasion de l’essayer
+tellement les prix sont prohibitifs.&lt;&#x2F;p&gt;
+&lt;p&gt;L’Europe fournit les données avec un pas de 25m en se basant sur les données
+STRM et ASTER. Elles sont librement téléchargeable sur le site de
+&lt;a href=&quot;http:&#x2F;&#x2F;www.eea.europa.eu&#x2F;data-and-maps&#x2F;data&#x2F;eu-dem&quot;&gt;EU-DEM&lt;&#x2F;a&gt;. Ce sont
+ces données qui vont être utilisées.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;recuperer-le-bon-fichier&quot;&gt;Récupérer le bon fichier&lt;&#x2F;h1&gt;
+&lt;p&gt;Nous voulons un rectangle autour de Paris. Le coin nord-ouest est aux
+coordonnées &lt;code&gt;(lon ; lat)&lt;&#x2F;code&gt; &lt;code&gt;(2,1 ; 49,0)&lt;&#x2F;code&gt; et coin sud-est &lt;code&gt;(2,6 ; 48,7)&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Les données de EU-DEM sont dans le système de projection &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;European_grid&quot;&gt;EPSG:3035&lt;&#x2F;a&gt;. Une unité dans
+cette projection correspond à un mètre. Chaque fichier représente un
+carré de 1000km de côté, dont le centre est indiqué dans le nom du fichier.&lt;&#x2F;p&gt;
+&lt;p&gt;Pour convertir mes coordonnées sphériques vers cette projection, j’utilise &lt;a href=&quot;http:&#x2F;&#x2F;www.gdal.org&#x2F;&quot;&gt;GDAL&lt;&#x2F;a&gt; :&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;echo &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;-e &lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;2.1 49.0 \n 2.6 48.7&lt;&#x2F;span&gt;&lt;span&gt;&amp;quot; | &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;gdaltransform -s_srs&lt;&#x2F;span&gt;&lt;span&gt; EPSG:4326&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -t_SRS&lt;&#x2F;span&gt;&lt;span&gt; EPSG:3035
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;3744051.46720138&lt;&#x2F;span&gt;&lt;span&gt; 2907303.46758626 0
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;3777142.88025981&lt;&#x2F;span&gt;&lt;span&gt; 2870291.83692777 0
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;On en déduit qu’il faut le fichier &lt;code&gt;EUD_CP-DEMS_3500025000-AA.tif&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;La commande &lt;code&gt;gdalinfo EUD_CP-DEMS_3500025000-AA.tifgdalinfo EUD_CP-DEMS_3500025000-AA.tif&lt;&#x2F;code&gt; permet d’avoir plus d’informations.&lt;&#x2F;p&gt;
+&lt;p&gt;D’une part on y découvre que le fichier contient le système de projection
+utilisé et qu’il s’agit d’une image carrée de 4000×4000 pixels, et que
+chaque pixel représente 25 mètres.&lt;&#x2F;p&gt;
+&lt;p&gt;Au lieu de représenter une couleur, un pixel représente une altitude.&lt;&#x2F;p&gt;
+&lt;p&gt;Pour éviter de manipuler un fichier de 4Go, et donc de risque de se
+retrouver un peu à l’étroit en mémoire vive, nous découpons le fichier
+autour des coordonnées qui nous intéressent :&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;gdalwarp -te 3744051 2870291 3777142 2907303 EUD_CP-DEMS_3500025000-AA.tif paris.tif&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;mapzen-terrain-tiles&quot;&gt;Mapzen terrain tiles&lt;&#x2F;h1&gt;
+&lt;p&gt;Il existe également une méthode bien plus simple pour récupérer le &lt;code&gt;tif&lt;&#x2F;code&gt; sur la
+zone que vous voulez.&lt;&#x2F;p&gt;
+&lt;p&gt;Il suffit d’utiliser le service proposé par Mapzen : https:&#x2F;&#x2F;mapzen.com&#x2F;documentation&#x2F;terrain-tiles&#x2F;build-a-map&#x2F;#desktop.&lt;&#x2F;p&gt;
+&lt;p&gt;Merci à Thomas Gratier de me l’avoir signalé.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;jouons-avec-qgis&quot;&gt;Jouons avec QGIS&lt;&#x2F;h1&gt;
+&lt;p&gt;QGis est très à l’aise avec ce type de fichiers. Importons-le dans un
+projet vierge comme &lt;a href=&quot;http:&#x2F;&#x2F;hub.qgis.org&#x2F;projects&#x2F;quantum-gis&#x2F;wiki&#x2F;Opening_raster_files&quot;&gt;couche raster&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;On obtient une image en niveau de gris, et on reconnait la Seine et ses
+boucles, la Marne et d’autres affluents :&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;elevations&#x2F;paris_brut.webp&quot; alt=&quot;Paris brut&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;des-couleurs&quot;&gt;Des couleurs !&lt;&#x2F;h3&gt;
+&lt;p&gt;On va modifier le style de la couche pour en faire quelque chose de plus sympathique.&lt;&#x2F;p&gt;
+&lt;p&gt;En choississant un type de rendu &lt;code&gt;Singleband pseudocolor&lt;&#x2F;code&gt;, puis en choississant
+le color map &lt;code&gt;Reds&lt;&#x2F;code&gt; suivi d’un clic sur &lt;code&gt;Classify&lt;&#x2F;code&gt; on obtient une proposition
+pour un gradient de rouges pour représenter environ 100 m d’écart.&lt;&#x2F;p&gt;
+&lt;p&gt;Le résultat est un peu décevant :&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;elevations&#x2F;paris_rouges.webp&quot; alt=&quot;niveaux en rouge&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;des-ombres&quot;&gt;Des ombres&lt;&#x2F;h2&gt;
+&lt;p&gt;Ce qu’il nous manque, c’est des &lt;em&gt;hillshade&lt;&#x2F;em&gt; ou des ombres pour souligner le
+relief. Ici intervient à nouveau &lt;code&gt;gdal&lt;&#x2F;code&gt; avec son outil &lt;code&gt;gdaldem&lt;&#x2F;code&gt; :&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;gdaldem hillshade paris.tif paris_ombres.tif&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Il est également possible d’utiliser &lt;code&gt;gdaldem&lt;&#x2F;code&gt; directement depuis QGis
+au travers du menu &lt;code&gt;Raster&amp;gt;Analysis&amp;gt;DEM (Terrain Models)&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Le résultat est finalement plus proche de ce qu’on imagine :&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;elevations&#x2F;paris_ombres.webp&quot; alt=&quot;Ombres du relief&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;combinons-les-deux&quot;&gt;Combinons les deux&lt;&#x2F;h2&gt;
+&lt;p&gt;Nous choisissons la fusion des deux couches (&lt;em&gt;blending&lt;&#x2F;em&gt;) avec le mode
+&lt;em&gt;multiply&lt;&#x2F;em&gt; pour obtenir l’image suivante :&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;elevations&#x2F;paris_combin%C3%A9.webp&quot; alt=&quot;Ombres et couleurs&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;courbes-de-niveau&quot;&gt;Courbes de niveau&lt;&#x2F;h2&gt;
+&lt;p&gt;Les courbes de niveau parlent particulièrement à certains habitués des
+cartes. Nous générons une courbe tous les 10 mètres avec :&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;gdal_contour -a&lt;&#x2F;span&gt;&lt;span&gt; altitude&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -i&lt;&#x2F;span&gt;&lt;span&gt; 10.0 paris.tif iso10.shp
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;ou au travers du menu &lt;code&gt;Raster&amp;gt;Extraction&amp;gt;Contour&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Le résultat n’est plus un fichier &lt;em&gt;raster&lt;&#x2F;em&gt;, mais un fichier vectoriel au
+formate &lt;em&gt;shapefile&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;En répétant l’opération pour obtenir les courbes tous les 50 mètres,
+puis en jouant avec les styles dans QGis, il est possible d’obtenir le
+rendu suivant :&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;elevations&#x2F;paris_iso.webp&quot; alt=&quot;Courbes de niveau&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Pour une utilisation ultérieure, nous convertissons les fichiers
+&lt;em&gt;shapefile&lt;&#x2F;em&gt; en &lt;em&gt;GeoJSON&lt;&#x2F;em&gt; dont les coordonnées seront en &lt;code&gt;(lon ; lat)&lt;&#x2F;code&gt;
+(dont l’identifiant est 4326) et
+non plus dans la projection originale des données altimétriques :&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span&gt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;ogr2ogr -t_srs&lt;&#x2F;span&gt;&lt;span&gt; EPSG:4326&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -f&lt;&#x2F;span&gt;&lt;span&gt; geojson iso10.geojson iso10.shp
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;utilisation-web&quot;&gt;Utilisation web&lt;&#x2F;h2&gt;
+&lt;p&gt;Si le but était de créer une carte papier, le composeur de QGis serait
+tout à fait indiqué.&lt;&#x2F;p&gt;
+&lt;p&gt;Cependant, si on désire faire une carte interactive pour le web, il faut
+transformer les images en tuiles, ici en utilisant &lt;code&gt;gdal2tiles&lt;&#x2F;code&gt; afin d’avoir
+des images de taille différente selon le niveau de zoom.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;gdal2tiles.py --zoom&lt;&#x2F;span&gt;&lt;span&gt;=9-14&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; --s_srs&lt;&#x2F;span&gt;&lt;span&gt; EPSG:3035 paris_tout.tif
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Ensuite utilisez votre outil carto préféré.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Anarchy in the IT</title>
+        <published>2016-07-29T00:00:00+00:00</published>
+        <updated>2016-07-29T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/democratie/" type="text/html"/>
+        <id>https://tristramg.eu/democratie/</id>
+        
+        <content type="html">&lt;h3 id=&quot;en-fin-de-compte-plus-de-rouge-que-de-noir&quot;&gt;En fin de compte, plus de rouge que de noir&lt;&#x2F;h3&gt;
+&lt;p&gt;Le titre était trop beau et j’ai voulu le garder malgré un changement de
+problématique.&lt;&#x2F;p&gt;
+&lt;p&gt;Je voulais initialement parler d’anarchie dans le milieu informatique et
+affirmer &lt;em&gt;in fine&lt;&#x2F;em&gt; que des théories d’organisation d’entreprise qui ont
+150 ans mériteraient d’être considérées par les jeunes start-ups
+innovantes.&lt;&#x2F;p&gt;
+&lt;p&gt;J’aurais montré que tous les outils régulièrement réinventés pour
+décloisonner les entreprises encrassées avec le temps, tels que la
+gestion de projet &lt;em&gt;agile&lt;&#x2F;em&gt;, l’organisation d’entreprise matricielle, ou
+des concepts plus fumeux tels que l’holocratie reviennent toujours au
+même : réduire une attitude top-down néfaste qui se consolide au fil des
+années.&lt;&#x2F;p&gt;
+&lt;p&gt;En conclusion, j’insisterais à dire qu’on gagnerait beaucoup de temps si
+--- au lieu de réinventer une roue voilée heptagonale --- on
+s’intéressait aux organisations anarchistes qui ont existé dans
+l’histoire.&lt;&#x2F;p&gt;
+&lt;p&gt;Mais en discutant de ces sujets autour de moi, il y avait quand même un
+problème bien plus profond : il n’y a pas de démocratie en entreprise.
+Et cela semble totalement acquis et normal.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;le-pouvoir-d-un-etat-a-chaque-citoyen&quot;&gt;Le pouvoir d’un État à chaque citoyen&lt;&#x2F;h3&gt;
+&lt;p&gt;En effet, l’anarchie est juste une proposition de régime démocratique,
+où l’étendu et le besoin du pouvoir est remis en permanence en question.
+Elle se différencie ainsi de la démocratie représentative où l’on
+délègue notre pouvoir à des personnes élues, de la démocratie directe
+dont les référendums seraient quasiment une vérité ou encore du tirage
+au sort où certains travers de la représentativité par élection sont
+amoindris.&lt;&#x2F;p&gt;
+&lt;p&gt;Les partisans de ces approches, d’hybridations ou encore d’autre
+approches peuvent se chamailler tard dans la nuit. Mais tout se fonde
+sur un socle commun : s’assurer que le peuple ait le pouvoir.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;le-pouvoir-en-entreprise-aux-plus-riches&quot;&gt;Le pouvoir en entreprise aux plus riches&lt;&#x2F;h3&gt;
+&lt;p&gt;Pourtant, une entreprise est une ploutocratie et cela ne gène personne.
+Il est largement accepté que l’apporteur de capital détient le pouvoir.&lt;&#x2F;p&gt;
+&lt;p&gt;Très rapidement, même dans des start-ups à la cool, à peine arrivée à
+une vingtaine de personnes, il n’est plus possible d’avoir une vision
+générale de ce qui se passe dans l’entreprise.&lt;&#x2F;p&gt;
+&lt;p&gt;Alors, l’innovation tant mise en avant sur la technologie est oubliée
+quand on parle management. Au moins un chef de projet, manager, chef de
+produit ou directeur viendra grossir les rangs pour avoir une vue
+d’ensemble. Celui-ci sera probablement imposé par le détenteur de
+capital aux travailleurs.&lt;&#x2F;p&gt;
+&lt;p&gt;L’entreprise tombe alors très vite dans la tentation grossière des KPI
+(indicateurs clefs chiffrés) en affirmant laisser aux travailleur toute
+autonomie, du moment que leur travail est fait. Ce qui est &lt;em&gt;leur
+travail&lt;&#x2F;em&gt; est défini par le capital.&lt;&#x2F;p&gt;
+&lt;p&gt;Malheureusement, ce genre d’outil empêche les travailleurs de réellement
+comprendre pourquoi ils font leur travail, comment cela s’articule avec
+le travail des collègues et on bascule vers une optimisation des KPIs en
+s’éloignant de l’amour du travail bien fait.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;malgre-des-competences-tres-homogenes&quot;&gt;Malgré des compétences très homogènes&lt;&#x2F;h3&gt;
+&lt;p&gt;Pourtant, tous les directeurs, ceux dont le travail est d’avoir une vue
+globale et ceux qui font le travail viennent encore trop souvent du même
+moule : âge dans une fourchette restreinte, principalement hommes
+blancs, de famille intellectuelle, diplômés d’un master.&lt;&#x2F;p&gt;
+&lt;p&gt;Les rôles des uns et des autres dans l’entreprise tiennent plus du
+hasard de la vie et de choix personnels que de la formation ou de
+l’expérience.&lt;&#x2F;p&gt;
+&lt;p&gt;Comment se fait-il alors que l’avis des travailleurs ait tendance a être
+négligé sur les questions stratégiques et organisationnelles ? C’est
+pourtant eux qui produisent ce qui sera vendu ; ils ont une meilleure
+connaissance de leur activité, ont les mêmes compétences et expériences
+pour comprendre la vision d’ensemble et comprennent mieux que quiconque
+les problèmes de dette technique.&lt;&#x2F;p&gt;
+&lt;p&gt;L’argument le plus généralement opposé, est que les travailleurs sont
+contents à leur place et délèguent avec plaisir une partie de leurs
+responsabilités.&lt;&#x2F;p&gt;
+&lt;p&gt;Il y a également une grande dose de fatalité : à quoi bon essayer
+d’innover, on tombera toujours dans une entreprise désenchantée.&lt;&#x2F;p&gt;
+&lt;p&gt;Enfin, il y a la bonne vieille peur d’AG sans fin pour un oui ou pour un
+non. Mais de mon expérience, une nouvelle tombée du ciel, qui fait jaser
+les travailleurs, et qui leur donne juste envie d’aller ensemble au bar
+à 17h n’est pas plus productif. À l’opposé, faire murir une idée pour
+qu’elle finisse par devenir évidente permet une mise en œuvre finalement
+plus rapide car appropriée par tous ceux que ça concerne.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;les-bons-sentiments&quot;&gt;Les bons sentiments&lt;&#x2F;h3&gt;
+&lt;p&gt;Mais ce qui me met hors de moi, c’est le refus ne serait-ce que
+d’essayer. Peut-être que j’ai tort, mais je ne connais aucun exemple où
+les travailleurs avaient un pouvoir significatif sur la stratégie ou
+l’organisation de l’entreprise.&lt;&#x2F;p&gt;
+&lt;p&gt;Je suis convaincu des bonnes intentions des patrons et qu’ils croient
+sincèrement bien faire. Mais nous ne voulons pas d’une société
+patriarcale pétrie de bon sentiments dirigée par des gens qui ont
+l’impression de mieux savoir ce qui est le mieux pour tout le monde.&lt;&#x2F;p&gt;
+&lt;p&gt;Lorsque des exemples sont donnés pour certaines entreprises, ce sont
+rarement les travailleurs qui en parlent (à part après leur départ pour
+être plutôt dans la critique). Les autocongratulations viennent
+généralement de managers ou patrons. Il est alors difficile de savoir si
+cela correspond à une réalité ou si les auteurs sont aveuglés par leurs
+croyances de ce qui est le mieux.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;la-note-positive&quot;&gt;La note positive&lt;&#x2F;h3&gt;
+&lt;p&gt;Il existe quelques organes élus tels que les délégués du personnels et
+bien sûr des formes d’entreprises coopératives (plus dans le conseil et
+la prestation de service que dans les start-ups).&lt;&#x2F;p&gt;
+&lt;p&gt;De même, il est habituel que les futurs collègues soient embauchés après
+avoir rencontré des pairs. Étendre ce fonctionnement pour choisir les
+coordinateurs et supérieurs qui se chargeront de la vue d’ensemble ou de
+la stratégie ne semble donc pas si délirant.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;c-est-bien-beau-de-parler&quot;&gt;C’est bien beau de parler&lt;&#x2F;h3&gt;
+&lt;p&gt;J’admire ceux qui ont la motivation de se lancer corps et âme dans un
+projet à la viabilité incertaine. Clairement, je ne fais pas partie de
+ces gens-là. C’est donc prétentieux de ma part de vouloir mettre en
+péril un argent qui n’est pas le mien.&lt;&#x2F;p&gt;
+&lt;p&gt;Mais je persiste et j’insiste pour dire que les entreprises auraient
+beaucoup à gagner à arrêter de considérer qu’avoir du capital est le
+meilleur moyen de définir le fonctionnement d’une entreprise.&lt;&#x2F;p&gt;
+&lt;p&gt;Peut-être qu’un jour on entendra parler d’une start-up qui fera sa
+sortie par un rachat par les employés en coopérative, et non pas par une
+&lt;em&gt;IPO&lt;&#x2F;em&gt; ou un achat par un plus gros. Des exemples existent dans la
+manufacture tel que le très médiatisé 1336&#x2F;Fralib.&lt;&#x2F;p&gt;
+&lt;p&gt;En attendant, je commence à me convaincre que se syndiquer est peut-être
+l’approche la plus pragmatique pour avoir une voix plus unie des
+travailleurs pour améliorer le fonctionnement de l’entreprise. Oui,
+aussi en informatique, pas seulement dans des usines où le méchant
+patron exploite les employés.&lt;&#x2F;p&gt;
+&lt;p&gt;Peut-être que cela aurait permis d’être un peu moins le sympathique
+râleur alors qu’unis nous aurions pu éviter la lente et prévisible
+dérive vers la mélasse top-down.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Roads from Notre-Dame</title>
+        <published>2015-12-27T00:00:00+00:00</published>
+        <updated>2015-12-27T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/roads-from-notre/" type="text/html"/>
+        <id>https://tristramg.eu/roads-from-notre/</id>
+        
+        <content type="html">&lt;blockquote class=&quot;update&quot;&gt;
+    &lt;h3&gt;Mise à jour le 2020-12-26&lt;&#x2F;h3&gt;
+    I rewrote everything in rust for much more simplicity and explained it &lt;a href=&quot;..&#x2F;routes-depuis&quot;&gt;a blog post in french&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Examples can be seen &lt;a href=&quot;https:&#x2F;&#x2F;kdrive.infomaniak.com&#x2F;app&#x2F;share&#x2F;880730&#x2F;511b5eb2-8e8b-4904-ba1a-451b9269c993&quot;&gt;over here&lt;&#x2F;a&gt;, and the code &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Tristramg&#x2F;roads-from-nd&#x2F;&quot;&gt;on github&lt;&#x2F;a&gt;.
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;All roads lead to Rome and it makes great maps! The project &lt;a href=&quot;http:&#x2F;&#x2F;roadstorome.moovellab.com&#x2F;&quot;&gt;Roads to Rome&lt;&#x2F;a&gt; made a small buzz with their
+gorgeous maps showing a superposition of many routes that lead to Rome.&lt;&#x2F;p&gt;
+&lt;p&gt;They well deserve their success. The representation looks like a human
+cardiovascular system, whose heart is Rome.&lt;&#x2F;p&gt;
+&lt;p&gt;I was somewhat jealous for not having that idea first. Nor did I have
+the aesthetic talent to make a beautiful representation, so I was
+slightly condescending: “Meh. It’s only 20 lines of code for a Dijkstra
+and some plotting”.&lt;&#x2F;p&gt;
+&lt;p&gt;Having some free time in Perpignan with my family for a week, I tried to
+copy their work. Here is a journal of what I did.&lt;&#x2F;p&gt;
+&lt;p&gt;Since my laptop is a 4 years old netbook and due to my laziness to
+optimise my code, the example will only cover France and not Europe on
+the whole.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;..&#x2F;images&#x2F;roads_from_nd_xxl.webp&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;roads_from_nd_small.webp&quot; alt=&quot;Final result. Click for a higher resolution (144 Megapixels, 16Mb)&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Data from OpenStreetMap under ODbL&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;1-get-the-data&quot;&gt;1. Get the data&lt;&#x2F;h1&gt;
+&lt;p&gt;Of course I used &lt;a href=&quot;https:&#x2F;&#x2F;www.openstreetmap.org&quot;&gt;OpenStreetMap&lt;&#x2F;a&gt;.
+However, processing all the data of France was too much for my modest
+project &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Tristramg&#x2F;osm4routing&quot;&gt;osm4routing&lt;&#x2F;a&gt;. I used
+the extraction part from &lt;a href=&quot;http:&#x2F;&#x2F;project-osrm.org&#x2F;&quot;&gt;OSRM&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I read the binary representation in the &lt;code&gt;.osrm&lt;&#x2F;code&gt; files. This
+is not portable at all as the format is a temporary file format.
+Actually, my code does not work anymore on their &lt;code&gt;develop&lt;&#x2F;code&gt; branch.&lt;&#x2F;p&gt;
+&lt;p&gt;The street network of France consists of a little more than 30 millions
+nodes and about the same amount of edges. As a pleasant bonus, OSRM also
+reads ferry routes. This allows us to reach Corsica and other islands.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2-compute-all-the-routes&quot;&gt;2. Compute all the routes&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;point_zero.webp&quot; alt=&quot;CC BY-SA 3.0 Jean-Pierre Bazard (from Wikimedia commons)&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;So we extracted a nice graph, with realistic travel durations. We now
+want to compute all the routes that start from Notre-Dame. Indeed, while
+all roads lead to Rome, all &lt;a href=&quot;https:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Point_z%C3%A9ro_des_routes_de_France&quot;&gt;roads start from Notre-Dame
+(FR)&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The starting point is the node
+&lt;a href=&quot;http:&#x2F;&#x2F;www.openstreetmap.org&#x2F;node&#x2F;677151951#map=17&#x2F;48.85359&#x2F;2.34836&quot;&gt;677151951&lt;&#x2F;a&gt;
+in OpenStreetMap.&lt;&#x2F;p&gt;
+&lt;p&gt;Luckily, computing all routes from a single node to every other has been
+solved more than half a century ago.&lt;&#x2F;p&gt;
+&lt;p&gt;This is exactly what &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dijkstra%27s_algorithm&quot;&gt;Dijkstra’s algorithm&lt;&#x2F;a&gt; does.
+In fact, I used the &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bellman%E2%80%93Ford_algorithm&quot;&gt;Bellman-Ford algorithm&lt;&#x2F;a&gt;
+as I did not care about performance and I preferred its trivial
+implementation.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;3-count-the-use-of-every-edge&quot;&gt;3. Count the use of every edge&lt;&#x2F;h1&gt;
+&lt;p&gt;Once we have all the routes from Notre Dame to all the nodes in France, we take each single route from Notre-Dame to every node in France and we count how many routes each edge occurs in.&lt;&#x2F;p&gt;
+&lt;p&gt;All the edges are inserted into a &lt;a href=&quot;http:&#x2F;&#x2F;www.postgis.net&quot;&gt;PostGIS&lt;&#x2F;a&gt;
+database (Postgres with a geographical extension) with their coordinates
+and use count.&lt;&#x2F;p&gt;
+&lt;p&gt;All the steps until now were implemented in
+&lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt; and are available
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tristramg&#x2F;roads-from-nd&#x2F;blob&#x2F;master&#x2F;src&#x2F;main.rs&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Initially I planned to use QGis or Mapbox to make the rendering.
+However, the size of the data made that impossible for any area larger
+than the greater Paris.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;4-draw-everything-on-a-image&quot;&gt;4. Draw everything on a image&lt;&#x2F;h1&gt;
+&lt;p&gt;The coordinates are given as &lt;code&gt;[(longitude; latitude)]&lt;&#x2F;code&gt;. If you
+plot them directly as &lt;code&gt;[(x; y)]&lt;&#x2F;code&gt; on a picture the result is
+horrible at higher latitude. It is called the &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Equirectangular_projection&quot;&gt;plate carrée&lt;&#x2F;a&gt;
+projection.&lt;&#x2F;p&gt;
+&lt;p&gt;(By the way, if you plot &lt;code&gt;[(lat; lon)]&lt;&#x2F;code&gt; it will be even worse😉)&lt;&#x2F;p&gt;
+&lt;p&gt;The official projection for continental France is &lt;a href=&quot;http:&#x2F;&#x2F;spatialreference.org&#x2F;ref&#x2F;epsg&#x2F;rgf93-lambert-93&#x2F;&quot;&gt;Lambert 93&lt;&#x2F;a&gt;. With
+Postgis and a lot of waiting, I could trivially reproject all the
+coordinates.&lt;&#x2F;p&gt;
+&lt;p&gt;As I could not find how to use a graphics library in Rust, I ended up
+drawing the edges in C++ using &lt;a href=&quot;http:&#x2F;&#x2F;cairographics.org&quot;&gt;Cairo&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;But first I
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tristramg&#x2F;roads-from-nd&#x2F;blob&#x2F;master&#x2F;dump.cc&quot;&gt;dumped&lt;&#x2F;a&gt;
+all the edges in a binary file in order to save some time when
+experimenting around.&lt;&#x2F;p&gt;
+&lt;p&gt;With a lot of trial and error I found a reasonable balance between the
+width of each edge and its darkness.&lt;&#x2F;p&gt;
+&lt;p&gt;For the pictures with the largest resolution, I
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tristramg&#x2F;roads-from-nd&#x2F;blob&#x2F;master&#x2F;draw.cc&quot;&gt;drew&lt;&#x2F;a&gt;
+every edge that was used by more than 10 routes. That represents about
+18 million edges.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;5-scale-for-europe&quot;&gt;5. Scale for Europe&lt;&#x2F;h1&gt;
+&lt;p&gt;So I got a nice representation of all the roads from Notre-Dame in
+France. What about Europe, like in the project I ripped off? My 4 years
+old netbook was mistreated enough.&lt;&#x2F;p&gt;
+&lt;p&gt;I would need a better machine (much more RAM, an SSD disk would be
+nice), and to make some improvements:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use Dijkstra’s algorithm instead of Bellman-Ford&lt;&#x2F;li&gt;
+&lt;li&gt;Find a more effective way to count every edge use&lt;&#x2F;li&gt;
+&lt;li&gt;Skip the intermediate step with PostGIS; dump directly into a binary file&lt;&#x2F;li&gt;
+&lt;li&gt;Find a proper way to draw 100 million little dashes?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;6-little-bonus&quot;&gt;6. Little bonus&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;video width=&quot;750&quot; controls src=&quot;&#x2F;images&#x2F;roads_from_nd.mp4&quot;&gt; Animation of the roads &lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Carnet de voyage en train de nuit</title>
+        <published>2014-12-13T00:00:00+00:00</published>
+        <updated>2014-12-13T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/night-train/" type="text/html"/>
+        <id>https://tristramg.eu/night-train/</id>
+        
+        <content type="html">&lt;p&gt;Depuis ce week-end il n’y a plus de train direct entre Paris et Berlin.
+Et ça m’attriste. Les trains de nuit ont été l’épine dorsale de mes
+déplacements depuis 10 ans que je vis en Europe.&lt;&#x2F;p&gt;
+&lt;p&gt;Voici donc un petit carnet de route de trains de nuits que j’ai pris et
+qui n’existent plus.&lt;&#x2F;p&gt;
+&lt;p&gt;J’indique l’ordre dans lequel je les ai pris, mais je précise leur année
+de décès.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;nice-nantes-ocean-riviera-2010&quot;&gt;Nice — Nantes Océan-Riviera 2010&lt;&#x2F;h1&gt;
+&lt;p&gt;J’étudiais à Nantes et j’avais une copine à Nice. Le train de nuit ne
+s’appelait pas encore &lt;em&gt;Lunéa&lt;&#x2F;em&gt; et mettait environ 14h. C’était le trajet
+le plus long de France.&lt;&#x2F;p&gt;
+&lt;p&gt;Le train changeait deux fois de locomotive : une fois à Marseille pour
+faire demi-tour et une fois à Bordeaux pour mettre une locomotive diesel
+jusqu’à Nantes.&lt;&#x2F;p&gt;
+&lt;p&gt;Le voyage n’avait rien d’extraordinaire, mais il était imprégné de
+l’impatience de retrouver ou la tristesse de quitter le premier amour.
+Le train était surtout rempli de militaires qui rejoignaient la base de
+Saintes.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;paris-vienne-orient-express-2007-2009&quot;&gt;Paris — Vienne : Orient Express 2007&#x2F;2009&lt;&#x2F;h1&gt;
+&lt;p&gt;Hé oui ! L’Orient Express avant de devenir une icône du luxe était
+surtout un train permettant de voyager. De Londres à Istambul il s’est
+peu à peu réduit en peau de chagrin. C’était un train de l’ÖBB, les
+chemins de fers autrichiens tout à fait moderne, bien loin de
+l’imaginaire collectif.&lt;&#x2F;p&gt;
+&lt;p&gt;Quand je l’ai pris en janvier 2007, ce qu’il restait de cette ligne
+mythique était le Paris-Vienne, 3 mois avant qu’elle soit réduite à
+Strasbourg—Vienne suite à l’ouverture de la LGV Est.&lt;&#x2F;p&gt;
+&lt;p&gt;En Décembre 2009 ce fut la fin complète de ce train.&lt;&#x2F;p&gt;
+&lt;p&gt;Le voyage durait 15 heures. C’est probablement pour ça que nous n’étions
+que 6 dans la voiture ; en plus tous dans le même compartiment. Le
+contrôleur a ouvert deux compartiments de plus : nous n’étions donc que
+deux par compartiments. Le vrai luxe !&lt;&#x2F;p&gt;
+&lt;p&gt;Une fois le soleil couché, j’ai profité de la prise électrique (il y a 7
+ans... on attend toujours en France) pour regarder quelques épisodes de
+Veronica Mars et dormir. Au réveil je découvre les montagnes enneigées
+sous un grand soleil et le contrôleur nous propose un petit déjeuner au
+lit.&lt;&#x2F;p&gt;
+&lt;p&gt;Ah oui, j’avais payé 35€ pour tout ça.&lt;&#x2F;p&gt;
+&lt;p&gt;Plus d’informations sur l’historique
+&lt;a href=&quot;http:&#x2F;&#x2F;www.seat61.com&#x2F;OrientExpress.htm&quot;&gt;http:&#x2F;&#x2F;www.seat61.com&#x2F;OrientExpress.htm&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;copenhage-cologne-borealis-2014&quot;&gt;Copenhage — Cologne : Borealis 2014&lt;&#x2F;h1&gt;
+&lt;p&gt;Gare Centrale de Copenhague : quai n°4, train à destination de
+Amsterdam, Bâle et Prague. La magie de la recomposition des trains
+pendant la nuit.&lt;&#x2F;p&gt;
+&lt;p&gt;Nous ne sommes que deux dans le compartiment au départ du train. L’autre
+passager est un retraité des chemins de fers qui allait à Londres. Moi
+j’allais à Nantes pour ma soutenance de fin d’études. Il avait ramené
+son burger et sa bouteille de vin.&lt;&#x2F;p&gt;
+&lt;p&gt;À Roskilde monte un couple qui revenait du festival de rock du même nom.
+Le garçon était bien trop saoul. On l’a poussé sur la couchette du haut
+où il a dormi d’une traite (sans ronfler !). La fille s’est jointe à
+notre discussion sur les voyages avec deux pintes de bière en canette.&lt;&#x2F;p&gt;
+&lt;p&gt;À Odense monte un jeune indien en costume. Il revenait d’un entretien
+d’embauche en prévision de la fin de sa thèse qu’il effectuait en
+Allemagne.&lt;&#x2F;p&gt;
+&lt;p&gt;Une dernière personne est montée vers minuit pour redescendre à 5h du
+matin.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;paris-berlin-perseus-2008-2014&quot;&gt;Paris — Berlin : Perseus 2008&#x2F;2014&lt;&#x2F;h1&gt;
+&lt;p&gt;Jusqu’en 2008, le Perseus passait par Bruxelles et possédait encore une
+voiture restaurant pour prendre un Capuccino et se réveiller en douceur
+en découvrant les abords de Paris et de Berlin.&lt;&#x2F;p&gt;
+&lt;p&gt;Il a ensuite été accouplé avec le &lt;em&gt;Cassiopée&lt;&#x2F;em&gt; à destination de Münich.
+Le train passe donc par Metz au lieu de Bruxelles rallongeant le voyage
+de plus d’une heure et la voiture restaurant a disparu.&lt;&#x2F;p&gt;
+&lt;p&gt;Ce n’étaient pas des voyages particulièrement mémorables, mais j’ai pris
+ce train plusieurs fois et il me manquera pour rejoindre ma famille à
+Hannovre ce noël.&lt;&#x2F;p&gt;
+&lt;p&gt;De plus il reliait les deux capitales du noyau dur de l’Europe. Il n’est
+plus possible de le faire sans correspondance ou encore de faire le
+voyage avec un vélo. C’est toute la construction européenne qui
+s’effrite.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;paris-barcelone-joan-miro-2013&quot;&gt;Paris — Barcelone : Joan Miró 2013&lt;&#x2F;h1&gt;
+&lt;p&gt;Aaaah ! Les Trenhotel Elipsos ! C’était des trains Talgo qui étaient
+utilisés. Mon entourage sait à quel point je suis admiratif de ce
+fabriquant espagnol.&lt;&#x2F;p&gt;
+&lt;p&gt;Le positionnement était relativement haut de gamme : les compartiments
+de la classe touriste n’accueillent que 4 passagers, contre 6
+habituellement même si l’aménagement intérieur datait des années 80. Le
+fait que ce soient des Talgo rendent le voyage exceptionnellement
+agréable.&lt;&#x2F;p&gt;
+&lt;p&gt;Il y a une voiture bar et une voiture restaurant. Je me suis posé au bar
+pour commander un peu de vin. Une véritable machine à expresso est
+accrochée au comptoir trop étroit par des sangles. Les commandes fusent
+pour servir la voiture restaurant « 3 cafés, 1 cognac, 2 cava et 4
+crèmes catalanes », un serveur fait la plonge dans un coin pour préparer
+le service suivant.&lt;&#x2F;p&gt;
+&lt;p&gt;Entre la qualité du matériel et le service un peu meilleur sans pour
+autant être une croisière de luxe comme certaines variantes de
+l’Orient-Express c’est une grande perte. Cependant la Russie a décidé
+d’en acheter pour desservir le Kiev et Berlin depuis Moscou. Peut-être
+qu’ils reviendront !&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;autres-voyages&quot;&gt;Autres voyages&lt;&#x2F;h1&gt;
+&lt;p&gt;Je pourrais encore parler longtemps des trains de nuit :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;des voyages au ski avec des potes&lt;&#x2F;li&gt;
+&lt;li&gt;la fois où une vieille dame m’a payé mon billet parce que je m’étais
+trompé de date et que la VISA n’était pas acceptée&lt;&#x2F;li&gt;
+&lt;li&gt;la fois où j’ai payé le billet d’un jeune homme qui a du arrêter son
+voyage en Scandinavie parce qu’il avait perdu son pass Interrail&lt;&#x2F;li&gt;
+&lt;li&gt;mes navettes régulières entre Toulouse et Paris&lt;&#x2F;li&gt;
+&lt;li&gt;l’horreur des TGV de nuit&lt;&#x2F;li&gt;
+&lt;li&gt;la magie des trains de nuit qui roulent de jour&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;ps&quot;&gt;PS&lt;&#x2F;h1&gt;
+&lt;p&gt;Si quelqu’un veut se lancer dans l’aventure de créer une compagnie
+privée de trains de nuit européen, qu’il me contacte !&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fibre free sans freebox</title>
+        <published>2014-04-20T00:00:00+00:00</published>
+        <updated>2014-04-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/fibre-openwrt/" type="text/html"/>
+        <id>https://tristramg.eu/fibre-openwrt/</id>
+        
+        <content type="html">&lt;h1 id=&quot;version-courte&quot;&gt;Version courte&lt;&#x2F;h1&gt;
+&lt;p&gt;La fibre avec Freebox v5 est limitée à 30 Mbps (mais au moins c’est
+symétrique).&lt;&#x2F;p&gt;
+&lt;p&gt;Cette limitation disparait avec la Freebox Révolution qui coute 70€&#x2F;an.&lt;&#x2F;p&gt;
+&lt;p&gt;En se branchant en ethernet, on peut dépasser les 500 Mbps.&lt;&#x2F;p&gt;
+&lt;p&gt;On peut aussi utiliser un routeur wifi du commerce à moins de 50€ pour
+avoir 200 Mbps. C’est ce que j’explique ici.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;contexte&quot;&gt;Contexte&lt;&#x2F;h1&gt;
+&lt;p&gt;Ma première connexion internet, c’était du 28.8 kbps en 1997 à
+Madagascar. Notre FAI avait à l’époque une connexion internationale de
+2 Mbps.&lt;&#x2F;p&gt;
+&lt;p&gt;Je suis chez Free depuis 2005, avec une connexion 2 Mbps initialement.&lt;&#x2F;p&gt;
+&lt;p&gt;En arrivant à Paris, j’avais une pauvre connexion 16 Mbps et seulement
+0.8 en upload. Mais mon immeuble était fibré par Neuf et les personnes
+qui avaient SFR ou Orange avaient la fibre.&lt;&#x2F;p&gt;
+&lt;p&gt;Tous les gros coups de pieds dans la fourmilière et le dirigeant qui est
+devenu milliardaire en trollant, m’ont fait refuser d’aller voir le
+autres concurrents, même pendant les quelques mois où youtube était
+devenu inutilisable.&lt;&#x2F;p&gt;
+&lt;p&gt;Quand aux FAI associatifs, je soutiens l’idée, mais ma radinerie et mon
+manque d’engagement militant ne m’ont jamais fait passer le cap. Après
+tout &lt;a href=&quot;http:&#x2F;&#x2F;www.lanef.com&#x2F;&quot;&gt;ma banque&lt;&#x2F;a&gt; et &lt;a href=&quot;http:&#x2F;&#x2F;www.enercoop.fr&quot;&gt;ma compagnie
+d’électricité&lt;&#x2F;a&gt; sont des coopératives. Pourquoi
+pas mon internet ?&lt;&#x2F;p&gt;
+&lt;p&gt;En décembre, j’ai reçu un coup de fil de Free pour poser la fibre. Après
+un no-show du technicien SFR (apparemment la fibre n’est pas posée par
+le FAI dans l’appartement, mais par l’entreprise qui a initialement
+fibré l’immeuble), un rendez-vous décalé par moi, la pose de la fibre,
+l’intervention du technicien Free pour finir le travail fait à moitié
+par le prestataire de SFR, j’ai la Fibre!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;concours-de-chibre&quot;&gt;Concours de chibre&lt;&#x2F;h1&gt;
+&lt;p&gt;La Freebox v5 n’a pas de prise fibre. Free nous fournit donc un petit
+boitier qui prend la fibre d’un côté et expose une prise ethernet de
+l’autre côté. On peut brancher la freebox dessus et tout fonctionnera
+comme avant. Mais on sera limité à 30 Mbps symétrique. Je suppose
+qu’aussi bien le matériel que le logiciel ont été dimensionné pour les
+20 Mbps de l’ADSL.&lt;&#x2F;p&gt;
+&lt;p&gt;On peut aussi se demander pourquoi ne pas brancher le PC sur le port
+ethernet du convertisseur. On peut. Mais il y a une subtilité à
+expliquer : en sortie de fibre, il y a deux réseaux, un pour internet,
+un pour la télévision à rediriger sur le boitier HD. Les flux sont
+taggués respectivement avec les vlans 836 et 835. Pour accéder
+uniquement au flux internet, installez le paquet vlan de votre
+distribution préférée, puis&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;vconfig add eth0 836
+&lt;&#x2F;span&gt;&lt;span&gt;dhclient eth0.836 # ou ce que vous utilisez pour le dhcp
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Ça y est ! Vous avez la plus grosse connexion. Selon les sites de tests,
+le débit était entre 500 et 800 Mbps et mon disque dur est trop lent
+pour tester si effectivement sur un gros téléchargement je plafonne à
+50 Mo&#x2F;s.&lt;&#x2F;p&gt;
+&lt;p&gt;C’est bien, mais j’aimerais autant avoir le wifi. J’ai donc acheté un
+petit &lt;a href=&quot;http:&#x2F;&#x2F;wiki.openwrt.org&#x2F;toh&#x2F;tp-link&#x2F;tl-wr1043nd&quot;&gt;routeur wifi&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;openwrt&quot;&gt;OpenWRT&lt;&#x2F;h1&gt;
+&lt;p&gt;OpenWRT est un firmware qui permet de libérer vos petits routeurs wifi
+et donc avoir bien plus la main dessus. Ça permet aussi des trucs
+rigolos comme les &lt;a href=&quot;http:&#x2F;&#x2F;pirateboxfr.com&#x2F;bienvenue&#x2F;&quot;&gt;Piratebox&lt;&#x2F;a&gt;. Je ne
+vais pas vous expliquer le flashage et comment faire une installation de
+base. Internet est assez riche.&lt;&#x2F;p&gt;
+&lt;p&gt;Par contre, j’ai vraiment galéré à configurer, pourtant c’est très
+simple. Dans &lt;code&gt;&#x2F;etc&#x2F;config&#x2F;network&lt;&#x2F;code&gt;, sur le vlan correspondant au port
+WAN (probablement vlan 2), précisez que vous voulez recevoir que les
+paquets avec le tag 836. Deux lignes à modifier, une à ajouter.&lt;&#x2F;p&gt;
+&lt;p&gt;Avant :&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;config interface ’wan’
+&lt;&#x2F;span&gt;&lt;span&gt;    option ifname ’eth0’
+&lt;&#x2F;span&gt;&lt;span&gt;    option proto ’dhcp’
+&lt;&#x2F;span&gt;&lt;span&gt;[…]
+&lt;&#x2F;span&gt;&lt;span&gt;config switch_vlan
+&lt;&#x2F;span&gt;&lt;span&gt;    option device ’switch0’
+&lt;&#x2F;span&gt;&lt;span&gt;    option vlan ’2’
+&lt;&#x2F;span&gt;&lt;span&gt;    option ports ’5 6’
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Après :&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;config interface ’wan’
+&lt;&#x2F;span&gt;&lt;span&gt;    option ifname ’eth0.836’
+&lt;&#x2F;span&gt;&lt;span&gt;    option proto ’dhcp’
+&lt;&#x2F;span&gt;&lt;span&gt;[…]
+&lt;&#x2F;span&gt;&lt;span&gt;config switch_vlan
+&lt;&#x2F;span&gt;&lt;span&gt;    option device ’switch0’
+&lt;&#x2F;span&gt;&lt;span&gt;    option vlan ’2’
+&lt;&#x2F;span&gt;&lt;span&gt;    option vid ’836’
+&lt;&#x2F;span&gt;&lt;span&gt;    option ports ’5t 6t’
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Note : de ce que j’ai vu sur la documentation d’autres modèles, les
+ports seront probablement 0 et 1 et non pas 5 et 6 comme chez moi.&lt;&#x2F;p&gt;
+&lt;p&gt;Ça y est ! J’ai un peu plus de 200 Megas en symétrique, soit 10 000 fois
+plus que ma première connexion internet. Ce chiffres correspondent à une
+&lt;a href=&quot;http:&#x2F;&#x2F;wiki.openwrt.org&#x2F;doc&#x2F;hardware&#x2F;performance&quot;&gt;limite du routeur&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Ça sera bien assez, hein ;)&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;consommation&quot;&gt;Consommation&lt;&#x2F;h1&gt;
+&lt;p&gt;Un bon point annexe, c’est la consommation d’électricité. Comme toutes
+les boxes, la freebox consomme trop. Mesuré avec un wattmètre bon
+marché, la freebox consomme 13W auxquels il faut ajouter les 3W du
+convertisseur, soit 16W.&lt;&#x2F;p&gt;
+&lt;p&gt;Avec le routeur et le convertisseur je suis à 10 W. Alors, évidemment,
+le gain de 6W doublé de l’imprécision du wattmètre ça reste pas très
+fiable.&lt;&#x2F;p&gt;
+&lt;p&gt;Vu que j’ai internet allumé environ 10 heures par jour en moyenne
+(beaucoup moins en semaine, beaucoup plus le week-end), ça fait 20 kWh
+d’économisés par an, soit
+&lt;a href=&quot;http:&#x2F;&#x2F;www.enercoop.fr&#x2F;Tarifs_484.html&quot;&gt;3 €&lt;&#x2F;a&gt; ! Whoo ! Mais pour une
+consommation annuelle de 800 kWh, c’est pas si négligeable.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;bilan&quot;&gt;Bilan&lt;&#x2F;h1&gt;
+&lt;p&gt;Pfiou, ça fait longtemps que j’avais pas geeké à si bas niveau pour
+rien, les 30 Mbps auraient été bien suffisants ;)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Short history of routes computation</title>
+        <published>2013-09-21T00:00:00+00:00</published>
+        <updated>2013-09-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/routing-calc-history/" type="text/html"/>
+        <id>https://tristramg.eu/routing-calc-history/</id>
+        
+        <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+&lt;p&gt;I wrote a blog post in French that had some unexpected success (by
+success I mean that people actually read it). At least two people asked
+for an English translation. So here it goes, with some of the errors in
+the French version corrected.&lt;&#x2F;p&gt;
+&lt;p&gt;Formally we would speak of “shortest path in a graph problem”. The goal
+is the same: what is the shortest way to go from A to B.&lt;&#x2F;p&gt;
+&lt;p&gt;Route computation are nice as the actual use cases can be explained to
+anyone =&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;the GPS end user&lt;&#x2F;li&gt;
+&lt;li&gt;the computer science student that at some point learnt the basic
+algorithms&lt;&#x2F;li&gt;
+&lt;li&gt;there is still research going on, but it can be explained to anyone
+interested within a few pints&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Personally, what I find interesting is how those algorithms evolved
+through time. Sorry for punctual technical details.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;1956-1958-ford-moore-and-bellman&quot;&gt;1956 — 1958: Ford, Moore and Bellman&lt;&#x2F;h1&gt;
+&lt;p&gt;The first suggested algorithm was published independently by those
+authors.&lt;&#x2F;p&gt;
+&lt;p&gt;It is nowadays usually called the &lt;em&gt;Bellman-Ford&lt;&#x2F;em&gt; algorithm.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;1959-dijkstra&quot;&gt;1959: Dijkstra&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Edsger_W._Dijkstra&quot;&gt;Edgard Dijkstra&lt;&#x2F;a&gt; is
+Dutch.&lt;&#x2F;p&gt;
+&lt;p&gt;He is one of the big names in computer science. He is know for his
+handwriting and quotes such as:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Simplicity is prerequisite for reliability&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;The question of whether Machines Can Think… is about as relevant as the question of whether Submarines Can Swim&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;Object-oriented programming is an exceptionally bad idea which could only have originated in California&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;He is the author of — brace yourself — &lt;em&gt;Dijkstra’s algorithm&lt;&#x2F;em&gt;
+published in 1959. It has been described in a &lt;a href=&quot;http:&#x2F;&#x2F;www-m3.ma.tum.de&#x2F;foswiki&#x2F;pub&#x2F;MN0506&#x2F;WebHome&#x2F;dijkstra.pdf&quot;&gt;two pages only article&lt;&#x2F;a&gt;
+but the name stuck as the fundamental brick of route computations.&lt;&#x2F;p&gt;
+&lt;p&gt;However, the algorithm we learn at school is not the one published by
+Dijkstra. It has a complexity of O(n²) while we are taught that
+complexity of the algorithm is O(n·log(n)).&lt;&#x2F;p&gt;
+&lt;p&gt;We had to wait 28 years to get to it.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;1987-tarjan&quot;&gt;1987: Tarjan&lt;&#x2F;h1&gt;
+&lt;p&gt;The weakness of Dijkstra’s algorithm is its priority queue that returns
+what node to visit next. An &lt;a href=&quot;http:&#x2F;&#x2F;www.cs.princeton.edu&#x2F;courses&#x2F;archive&#x2F;fall03&#x2F;cs528&#x2F;handouts&#x2F;fibonacci%20heaps.pdf&quot;&gt;article from 1987&lt;&#x2F;a&gt;
+by Tarjan (an other reference in the world of graphs) brings us to the
+“modern” Dijkstra’s algorithm.&lt;&#x2F;p&gt;
+&lt;p&gt;Many variations have been tested to speed up the algorithm with
+mitigated success, such as A*, bi-directional searches, sacrificing the
+optimality or a combination of all that.&lt;&#x2F;p&gt;
+&lt;p&gt;On a recent computer, computing a route across France takes around a
+second. Therefor back in the 90’s it was way to slow. There was a need
+to speed up the computation.&lt;&#x2F;p&gt;
+&lt;p&gt;We had to wait 18 year to get to it.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2005-dimacs-challenge-and-rise-of-the-kit&quot;&gt;2005: Dimacs challenge and rise of the KIT&lt;&#x2F;h1&gt;
+&lt;p&gt;The &lt;a href=&quot;http:&#x2F;&#x2F;www.dis.uniroma1.it&#x2F;challenge9&#x2F;format.shtml&quot;&gt;9th Dimac Challenge&lt;&#x2F;a&gt; was about
+routes computation. For this event the &lt;a href=&quot;http:&#x2F;&#x2F;www.dis.uniroma1.it&#x2F;challenge9&#x2F;download.shtml&quot;&gt;road network of the United States&lt;&#x2F;a&gt; was
+published.&lt;&#x2F;p&gt;
+&lt;p&gt;A large number of publications pulverised all the records. The
+algorithms are now fast enough to compute a route between two points on
+earth in less than a millisecond (more than a &lt;em&gt;thousands&lt;&#x2F;em&gt; times faster
+than the Dijkstra’s algorithm).&lt;&#x2F;p&gt;
+&lt;p&gt;An overwhelming share of publications come from from the &lt;a href=&quot;http:&#x2F;&#x2F;i11www.iti.uni-karlsruhe.de&#x2F;en&#x2F;projects&#x2F;route_planning&#x2F;index&quot;&gt;Karlsruhe Institute of Technology&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The team members suggested many algorithms, but also tested nearly every
+possible combination between those algorithms.&lt;&#x2F;p&gt;
+&lt;p&gt;There were so many publications it was hard to know where to look.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2008-consolidation-with-the-contraction-hierarchies&quot;&gt;2008: consolidation with the Contraction Hierarchies&lt;&#x2F;h1&gt;
+&lt;p&gt;After this phase of exuberant creativity, we could extract the core
+substance to make the algorithm that will probably become the new
+reference = the &lt;em&gt;contraction hierarchies&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;It has been presented in a master thesis (so I am somewhat ashamed of my
+PhD thesis…) by
+&lt;a href=&quot;http:&#x2F;&#x2F;algo2.iti.kit.edu&#x2F;documents&#x2F;routeplanning&#x2F;geisberger_dipl.pdf&quot;&gt;Geisberger&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;There is nothing really new, only the removal of superfluous ideas that
+made other algorithms too complicated to keep the smallest core that
+works well.&lt;&#x2F;p&gt;
+&lt;p&gt;Everybody that is interested in algorithmic should read the algorithm
+and its demonstration of optimality. The first time I read it, I could
+not grasp how it worked. I had to walk through the demonstration to be
+convinced.&lt;&#x2F;p&gt;
+&lt;p&gt;That algorithm is used in &lt;a href=&quot;http:&#x2F;&#x2F;map.project-osrm.org&#x2F;&quot;&gt;OSRM&lt;&#x2F;a&gt;, a free
+route calculator based on &lt;a href=&quot;http:&#x2F;&#x2F;www.openstreetmap.org&quot;&gt;OpenStreetMap&lt;&#x2F;a&gt;
+data.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2009-public-transit-are-still-forgotten&quot;&gt;2009: public transit are still forgotten&lt;&#x2F;h1&gt;
+&lt;p&gt;At last we know to efficiently compute a route on a street network. What
+about public transit? Not so bright here.&lt;&#x2F;p&gt;
+&lt;p&gt;The question was already studied in 1991 in the great PhD thesis of
+Eduard Tulp. But little happened since.&lt;&#x2F;p&gt;
+&lt;p&gt;Performances are deceiving and trying to use the successes in street
+network failed.&lt;&#x2F;p&gt;
+&lt;p&gt;In the article &lt;a href=&quot;http:&#x2F;&#x2F;link.springer.com&#x2F;chapter&#x2F;10.1007&#x2F;978-3-642-03456-5_24&quot;&gt;Car or Public Transport—Two
+Worlds&lt;&#x2F;a&gt;
+H. Bast show the differences that exist between both means of
+transportation and that is not interesting to try to use the same
+techniques.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2010-transfer-patterns-performance-at-last&quot;&gt;2010: transfer patterns, performance, at last!&lt;&#x2F;h1&gt;
+&lt;p&gt;It was summer, I had just sent my thesis manuscript to the examiners.
+Because of over-zealousness I read the &lt;a href=&quot;http:&#x2F;&#x2F;ad.informatik.uni-freiburg.de&#x2F;files&#x2F;transferpatterns.pdf&quot;&gt;latest article from H. Bast&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;For the first time it was possible to compute routes using public
+transit within a few milliseconds in a large city as New-York.&lt;&#x2F;p&gt;
+&lt;p&gt;If you looked closely, the was still a slight twist: the authors used
+the computing power of thousands of computers from Google. A massive
+pre-processing is the key to such good results.&lt;&#x2F;p&gt;
+&lt;p&gt;Just two more years to wait to have an effective algorithm.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2012-delling-s-raptor&quot;&gt;2012: Delling’s Raptor&lt;&#x2F;h1&gt;
+&lt;p&gt;Daniel Delling likes cool names (a previous algorithm was called
+&lt;em&gt;Sharc&lt;&#x2F;em&gt;). He chose
+&lt;a href=&quot;http:&#x2F;&#x2F;research.microsoft.com&#x2F;apps&#x2F;pubs&#x2F;default.aspx?id=156567&quot;&gt;Raptor&lt;&#x2F;a&gt;
+for his new algorithm.&lt;&#x2F;p&gt;
+&lt;p&gt;The proposed approach has no need for pre-processing and has better
+performances than the transfer patterns.&lt;&#x2F;p&gt;
+&lt;p&gt;Hooray! Cars do not have the monopoly on efficient algorithm any more.
+Raptor has the advantage to be rather simple and to have nice properties
+(too technical to bother you with them).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;zoidberg_hooray.webp&quot; alt=&quot;Zoidberg from Futurama saying hooray&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;intermission-opendata-and-science&quot;&gt;Intermission: opendata and science&lt;&#x2F;h1&gt;
+&lt;p&gt;Science needs data to be easily available. The DIMACS challenge was a
+success because big real life data set were published.&lt;&#x2F;p&gt;
+&lt;p&gt;It took six years from the first high-performance street network routing
+algorithm to the first high performance algorithm on public transit. We
+had to wait so long until data sets were at last released.&lt;&#x2F;p&gt;
+&lt;p&gt;It is the opendata movement applied to transportation that allowed that
+scientific progress.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2013-connection-scan-algorithm&quot;&gt;2013: Connection Scan Algorithm&lt;&#x2F;h1&gt;
+&lt;p&gt;A last one! In an article very modestly called &lt;a href=&quot;http:&#x2F;&#x2F;link.springer.com&#x2F;chapter&#x2F;10.1007%2F978-3-642-38527-8_6&quot;&gt;Intriguingly Simple and Fast Transit Routing&lt;&#x2F;a&gt;
+the authors present the &lt;em&gt;connection scan algorithm&lt;&#x2F;em&gt;. It is slightly more
+efficient than Raptor but is considerably more simple.&lt;&#x2F;p&gt;
+&lt;p&gt;When reading the article, and once again when implementing it, I was
+struck how brain dead simple it is, but it works.&lt;&#x2F;p&gt;
+&lt;p&gt;We went through 57 years of research to end up with an algorithm that
+could have been written at the same time as Dijkstra’s.&lt;&#x2F;p&gt;
+&lt;p&gt;Hence a last quote of Dijkstra that seems very appropriate:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hyperloop, un mode pas si révolutionnaire que ça</title>
+        <published>2013-08-12T00:00:00+00:00</published>
+        <updated>2013-08-12T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/hyperloop/" type="text/html"/>
+        <id>https://tristramg.eu/hyperloop/</id>
+        
+        <content type="html">&lt;blockquote class=&quot;update&quot;&gt;
+    &lt;h3&gt;Mise à jour le 2020-12-26&lt;&#x2F;h3&gt;
+    Plus de 6 ans plus tard, le projet ne semble toujours pas avoir abouti.&lt;&#x2F;p&gt;
+&lt;p&gt;Pendant ce temps, les TGV vont avoir 20% de capacité en plus (locomotives plus courtes permettant d’avoir une voiture en plus, plus de seconde et mois de première).&lt;&#x2F;p&gt;
+&lt;p&gt;La ligne Paris-Lyon, la plus saturée, va passer à 16 trains par heure et par sens (en particulier grâce à une nouvelle signalétique)
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Après plusieurs semaines de teasing, on en sait un peu plus sur le
+projet &lt;em&gt;hyperloop&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Elon_Musk&quot;&gt;Elon Musk&lt;&#x2F;a&gt; est un milliardaire
+qui a fait fortune avec Paypal, qui croit dur comme fer que le futur
+c’est demain, et que ce futur sera rempli de fusées
+(&lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;SpaceX&quot;&gt;SpaceX&lt;&#x2F;a&gt;), de voitures écolo
+(&lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Tesla_Motors&quot;&gt;Tesla&lt;&#x2F;a&gt;) et d’avions
+hypersonics.&lt;&#x2F;p&gt;
+&lt;p&gt;Il s’est dit très déçu par le projet de &lt;a href=&quot;http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;California_High-Speed_Rail&quot;&gt;ligne à grande vitesse en
+Californie&lt;&#x2F;a&gt; :
+trop lent, trop cher. Pas à la hauteur de la gloire de l’Amérique !&lt;&#x2F;p&gt;
+&lt;p&gt;Il s’est donc décidé à concevoir un système qui irait vite (proche de la
+vitesse du son) pour un prix d’infrastructure dix fois moins cher.&lt;&#x2F;p&gt;
+&lt;p&gt;Tout dédaigneux que je sois, j’étais quand même curieux et parce que
+j’ai la capacité de me passionner pour les aspect techniques sur des
+produits que je méprise (moteurs à explosion, réacteur nucléaire…). Et
+puis vues les réalisations du personnage, je ne pouvais pas snober
+l’évènement.&lt;&#x2F;p&gt;
+&lt;p&gt;J’ai donc pris ce document, et je l’ai parcouru
+&lt;a href=&quot;http:&#x2F;&#x2F;www.spacex.com&#x2F;sites&#x2F;spacex&#x2F;files&#x2F;hyperloop_alpha-20130812.pdf&quot;&gt;http:&#x2F;&#x2F;www.spacex.com&#x2F;sites&#x2F;spacex&#x2F;files&#x2F;hyperloop_alpha-20130812.pdf&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Voici ce que j’en ai retenu. C’est une réaction à chaud, et j’espère ne
+pas dire trop de bêtises que je regretterai.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;resume-technique&quot;&gt;Résumé technique&lt;&#x2F;h1&gt;
+&lt;ol&gt;
+&lt;li&gt;On créé un grand grand tuyau, dont la pression de l’air est faible
+(pas sous vide, ça coute trop cher)&lt;&#x2F;li&gt;
+&lt;li&gt;On fait circuler à l’intérieur des &lt;em&gt;pods&lt;&#x2F;em&gt; de 28 passagers avec un gros
+ventilateur pour chasser le peu d’air qui reste&lt;&#x2F;li&gt;
+&lt;li&gt;Très espacés, des moteurs linéaires ré-accélèrent la capsule&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;En pointe ça circule à 1200km&#x2F;h.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;capacite-tres-faible&quot;&gt;Capacité très faible&lt;&#x2F;h1&gt;
+&lt;p&gt;D’après l’auteur, la capacité de l’installation est d’une capsule toutes
+les 2 minutes, soit 840 passagers par heure.&lt;&#x2F;p&gt;
+&lt;p&gt;Comparons ça à une ligne TGV existante. Les &lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;TGV_2N2&quot;&gt;TGV
+Duplexe&lt;&#x2F;a&gt; on une capacité de 509
+personne (plus une 50-aine de squatteurs de strapontins et voiture bar).
+Ces TGV roulent en heure de pointe en unités doubles, soit plus de 1000
+passagers.&lt;&#x2F;p&gt;
+&lt;p&gt;En heure de pointe, il y a plus de 10 trains par heure dans chaque sens.&lt;&#x2F;p&gt;
+&lt;p&gt;Une ligne traditionnelle de grande vitesse nécessite peut-être dix fois
+moins d’investissement, mais est capable de transporter quinze fois plus
+de passagers.&lt;&#x2F;p&gt;
+&lt;p&gt;Le projet de ligne à grande vitesse prévoit jusqu’à 260 000 passagers
+par jour. En espérant que les passagers veuillent bien s’étaler
+uniformément dans la journée, il faudra quand même une capacité de 5000
+passagers par heure et par sens.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;consommation-d-energie-significative&quot;&gt;Consommation d’énergie significative&lt;&#x2F;h1&gt;
+&lt;p&gt;Malgré la faible pression, la consommation d’énergie est significative.
+L’ensemble du système doit consommer 21 MW en continu (sur la ligne Los
+Angeles-San Francisco) pour 34 capsules en mouvement, soit 952
+passagers, soit 22 kW de consommation &lt;em&gt;moyenne&lt;&#x2F;em&gt; par passager.&lt;&#x2F;p&gt;
+&lt;p&gt;La puissance en &lt;em&gt;accélération&lt;&#x2F;em&gt; maximale des TGV cités précédemment, est
+de 9,2 MW pour 509 passagers. Soit 18 kW de consommation &lt;em&gt;maximale&lt;&#x2F;em&gt; par
+passager.&lt;&#x2F;p&gt;
+&lt;p&gt;Évidemment, un TGV est beaucoup plus lent. Mais je voulais juste
+signaler que la consommation d’énergie n’est pas aussi faible que ce que
+le projet vend.&lt;&#x2F;p&gt;
+&lt;p&gt;En ce qui concerne l’alimentation entièrement par des panneaux
+photovoltaïques, en recouvrant toute la &lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;LGV_Sud-Est&quot;&gt;LGV
+Paris-Lyon&lt;&#x2F;a&gt;, on obtient &lt;code&gt;409 km × 13m × 120W&#x2F;m² = 638 MW&lt;&#x2F;code&gt;. De quoi produire environ 0,7 TWh par an, soit
+10% de la consommation de la SNCF. Sachant qu’il y a 2000 km de lignes à
+grande vitesse en France et 29 000 km au total, on pourrait également
+couvrir toute la consommation de la SNCF en couvrant les lignes de
+panneaux photovoltaïques.&lt;&#x2F;p&gt;
+&lt;p&gt;Ne m’embêtez pas avec les détails de stockage, Hyperloop ne le fait pas
+non plus.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;les-petits-secrets&quot;&gt;Les petits secrets&lt;&#x2F;h1&gt;
+&lt;p&gt;Tout comme la voiture à air comprimé consomme très peu que parce qu’elle
+est très légère avec un moteur à faible puissance, les performances de
+hyperloop ne sont atteinte qu’à grands coups de downscaling.&lt;&#x2F;p&gt;
+&lt;p&gt;Il n’y a pas de toilettes, pas de wagon restaurant… c’est déjà de la
+place économisée.&lt;&#x2F;p&gt;
+&lt;p&gt;Il n’y a pas non plus de première classe : les capsules font 1,35 mètre
+de large pour deux sièges de front. Un TGV fait 2,90 m de large pour 4
+places de front (mais par honnêteté, je vais rappeler l’existence d’un
+couloir dans les TGV).&lt;&#x2F;p&gt;
+&lt;p&gt;En classe unique, sans wagon bar, sans toilettes, on pourrait dépasser
+les 600 passagers que transporte une rame de Ouigo.&lt;&#x2F;p&gt;
+&lt;p&gt;Tout cela permet de descendre à environ 460kg de capsule par passager,
+contrairement 770 kg sur un TGV.&lt;&#x2F;p&gt;
+&lt;p&gt;Ce poids est un des grands axes pour réduire la consommation (ou
+augmenter la vitesse) des trains à grande vitesse dans le monde entier.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h1&gt;
+&lt;p&gt;C’est un projet rigolo, qui va très vite à condition que ça soit réservé
+à une minorité puisque le projet ne peut pas passer l’échelle.&lt;&#x2F;p&gt;
+&lt;p&gt;Je pense qu’il y a de la part de l’auteur des préjugés envers le
+systèmes ferroviaire traditionnel — on parle d’un constructeur de
+voitures de sport — et qu’il en sous-estime les avantages.&lt;&#x2F;p&gt;
+&lt;p&gt;Pour votre bilan énergétique, ça reste bien évidemment mieux qu’une
+voiture électrique, mais moins bien qu’un car au diesel ou un bon vieux
+TGV qui roule tranquillement à 300 km&#x2F;h pour avoir le temps d’admirer le
+paysage.&lt;&#x2F;p&gt;
+&lt;p&gt;J’espère en tout cas que si c’est mis en place sur des Paris → Helsinki,
+que ça soit bientôt. Avant que j’aie des problèmes à me retenir et que
+je sois obligé d’avoir une bouteille vide si l’envie me prend d’aller
+aux toilettes au cours des 3 heures de trajet.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Tentative d’évaluer le nombre de décès à vélo</title>
+        <published>2013-07-31T00:00:00+00:00</published>
+        <updated>2013-07-31T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/deces-a-velo/" type="text/html"/>
+        <id>https://tristramg.eu/deces-a-velo/</id>
+        
+        <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+&lt;p&gt;Suite aux accidents ferroviaires, des personnes se sont inquiétées : le
+train serait-il dangereux ?&lt;&#x2F;p&gt;
+&lt;p&gt;Réponse courte : non.&lt;&#x2F;p&gt;
+&lt;p&gt;Avoir trois accidents aussi grave en si peu de temps, reste
+&lt;a href=&quot;http:&#x2F;&#x2F;www.20minutes.fr&#x2F;societe&#x2F;1194147-20130730-accidents-train-la-loi-series-existe-pas&quot;&gt;statistiquement dans les normes&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Pour remettre une couche, &lt;a href=&quot;http:&#x2F;&#x2F;www.lemonde.fr&#x2F;societe&#x2F;article&#x2F;2013&#x2F;07&#x2F;31&#x2F;combien-de-morts-chaque-annee-dans-les-trains_3455478_3224.html&quot;&gt;cet article&lt;&#x2F;a&gt;
+donne des chiffres sur le nombre de décès par milliards de kilomètre. Le
+train et l’avion s’en sortent très bien.&lt;&#x2F;p&gt;
+&lt;p&gt;Je me suis donc demandé ce qu’il en est pour le vélo, et je me suis mis
+à faire des petits produits en croix sur un coin de papier.&lt;&#x2F;p&gt;
+&lt;p&gt;Il s’agit pourtant un exercice dangereux : les foudres s’abattent
+aussitôt sur toute personne osant parler globalement avec des chiffres
+vérifiables. Il y a toujours une histoire personnelle (parfois
+malheureusement, souvent un sauvetage de la mort &lt;em&gt;in extremis&lt;&#x2F;em&gt;). Olivier
+Razemon explique bien mieux ce phénomène sur &lt;a href=&quot;http:&#x2F;&#x2F;transports.blog.lemonde.fr&#x2F;2012&#x2F;10&#x2F;19&#x2F;moi-je-par-exemple-ma-mere-ne-fait-pas-de-velo&quot;&gt;son blog&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Tentons quand même.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;le-cas-de-paris&quot;&gt;Le cas de Paris&lt;&#x2F;h1&gt;
+&lt;p&gt;Je n’ai pas trouvé de chiffres à l’échelle nationale assez précis. Je me
+concentre donc uniquement sur Paris et son excellent &lt;a href=&quot;http:&#x2F;&#x2F;www.paris.fr&#x2F;pratique&#x2F;deplacements-voirie&#x2F;dossier&#x2F;bilan-des-deplacements-a-paris&#x2F;le-bilan-des-deplacements-a-paris-en-2011&#x2F;rub_7096_dossier_103374_port_16333_sheet_20491&quot;&gt;Bilan des
+Déplacements&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;On y apprend qu’en 2011 :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il y a eu 31,4 millions de locations Vélib&lt;&#x2F;li&gt;
+&lt;li&gt;Durée moyenne 25 minutes (on comptera 20 minutes pour prendre en
+compte les galères pour trouver une place)&lt;&#x2F;li&gt;
+&lt;li&gt;Il y avait deux fois plus de déplacements en vélo personnel qu’en
+Vélib&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Prenons une vitesse moyenne de 15 km&#x2F;h, soit 5 km par trajet pour un total
+de 90 millions de trajets à vélo.&lt;&#x2F;p&gt;
+&lt;p&gt;On arrive à 450 millions de km de vélo effectués par an à Paris.&lt;&#x2F;p&gt;
+&lt;p&gt;Il ne nous manque plus que le nombre de cyclistes tués chaque année à
+Paris.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;transports.blog.lemonde.fr&#x2F;2012&#x2F;10&#x2F;12&#x2F;un-cycliste-tue-a-paris-un-seul-pas-20-ni-100-ni-500&#x2F;&quot;&gt;Faites vos paris&lt;&#x2F;a&gt;
+1000 ? 100 ? 10 ?&lt;&#x2F;p&gt;
+&lt;p&gt;Entre 0 et 6. Prenons 4,5 comme moyenne pour que ça tombe rond.&lt;&#x2F;p&gt;
+&lt;p&gt;On en arrive donc à &lt;strong&gt;10 morts par milliard de kilomètre&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;On risque donc plus de mourir en faisant un kilomètre à vélo qu’en train
+ou avion. Faire un kilomètre à vélo est aussi dangereux que de faire
+deux kilomètres en voiture. Cela reste cependant très largement plus sûr
+que la moto.&lt;&#x2F;p&gt;
+&lt;p&gt;Évidemment, on a pas pris en compte le fait que le vélo &lt;a href=&quot;http:&#x2F;&#x2F;www.mrmoneymustache.com&#x2F;2013&#x2F;06&#x2F;13&#x2F;bicycling-the-safest-form-of-transportation&#x2F;&quot;&gt;prolonge la
+durée de
+vie&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;&#x2F;h1&gt;
+&lt;p&gt;Ces petits calculs ont un biais considérable : faire du vélo à Paris est
+extrêmement sûr. En fait, à l’échelle nationale, &lt;a href=&quot;http:&#x2F;&#x2F;www.preventionroutiere.asso.fr&#x2F;Nos-publications&#x2F;Statistiques-d-accidents&#x2F;Accidents-cyclistes&quot;&gt;59% des décès on lieu en dehors des agglomération&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Ce n’est en effet pas tant la voiture qui est dangereuse, mais la
+voiture qui roule à plus de 30km&#x2F;h.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ameliorer-la-situation&quot;&gt;Améliorer la situation&lt;&#x2F;h1&gt;
+&lt;p&gt;Petit instant morale : comment peut-on améliorer la situation ?&lt;&#x2F;p&gt;
+&lt;p&gt;Créer une fédération des cyclistes en colère pour que les voitures
+pensent à nous ? Non... Ce serait impossible de sensibiliser tout le
+monde. Et mettre les différents modes dos à dos, on a déjà connu plus
+constructif comme démarche. Comment alors ?&lt;&#x2F;p&gt;
+&lt;p&gt;Par des statistique pardi ! En se renseignant sur les causes de décès.
+Il s’agit dans la majorité de cas d’accidents avec des gros véhicules
+(bus, camion poubelle). Le seul vrai meurtrier est l’angle mort. Ne
+dépassez jamais par la droite : règle toute simple qui — contrairement
+au port du casque — rendra tout le suite le vélo moins dangereux par
+kilomètre parcouru que la voiture.&lt;&#x2F;p&gt;
+&lt;p&gt;Série de faits divers macabres pour étayer mon propos :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;2013
+&lt;a href=&quot;http:&#x2F;&#x2F;www.leparisien.fr&#x2F;paris-75&#x2F;paris-une-jeune-cycliste-ecrasee-par-un-camion-31-01-2013-2528229.php&quot;&gt;http:&#x2F;&#x2F;www.leparisien.fr&#x2F;paris-75&#x2F;paris-une-jeune-cycliste-ecrasee-par-un-camion-31-01-2013-2528229.php&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;2013
+&lt;a href=&quot;http:&#x2F;&#x2F;www.mairie2.paris.fr&#x2F;mairie02&#x2F;jsp&#x2F;site&#x2F;Portal.jsp?document_id=13122&amp;amp;portlet_id=1259&quot;&gt;http:&#x2F;&#x2F;www.mairie2.paris.fr&#x2F;mairie02&#x2F;jsp&#x2F;site&#x2F;Portal.jsp?document_id=13122&amp;amp;portlet_id=1259&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;2012 Année sans cycliste décédé à Paris&lt;&#x2F;li&gt;
+&lt;li&gt;2011
+&lt;a href=&quot;http:&#x2F;&#x2F;www.leparisien.fr&#x2F;paris-75&#x2F;un-chauffeur-de-bus-devant-la-justice-apres-le-deces-d-une-femme-en-velib-06-12-2011-1755321.php&quot;&gt;http:&#x2F;&#x2F;www.leparisien.fr&#x2F;paris-75&#x2F;un-chauffeur-de-bus-devant-la-justice-apres-le-deces-d-une-femme-en-velib-06-12-2011-1755321.php&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;2009
+&lt;a href=&quot;http:&#x2F;&#x2F;www.leparisien.fr&#x2F;paris-75&#x2F;un-sixieme-mort-a-velib-23-03-2009-452215.php&quot;&gt;http:&#x2F;&#x2F;www.leparisien.fr&#x2F;paris-75&#x2F;un-sixieme-mort-a-velib-23-03-2009-452215.php&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;2008
+&lt;a href=&quot;http:&#x2F;&#x2F;paris.evous.fr&#x2F;Velib-le-manquement-a-l-obligation,1529.html&quot;&gt;http:&#x2F;&#x2F;paris.evous.fr&#x2F;Velib-le-manquement-a-l-obligation,1529.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;2008 &lt;a href=&quot;http:&#x2F;&#x2F;expresse.excite.fr&#x2F;un-mort-en-velib-N603.html&quot;&gt;http:&#x2F;&#x2F;expresse.excite.fr&#x2F;un-mort-en-velib-N603.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;2007
+&lt;a href=&quot;http:&#x2F;&#x2F;www.leparisien.fr&#x2F;paris&#x2F;deces-d-une-cycliste-les-camions-en-accusation-20-10-2007-3291326410.php&quot;&gt;http:&#x2F;&#x2F;www.leparisien.fr&#x2F;paris&#x2F;deces-d-une-cycliste-les-camions-en-accusation-20-10-2007-3291326410.php&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Évidemment, il y a aussi les accidents pas mortels. Je vous invite à
+aller sur &lt;a href=&quot;http:&#x2F;&#x2F;www.lesrisquesavelo.com&#x2F;&quot;&gt;http:&#x2F;&#x2F;www.lesrisquesavelo.com&#x2F;&lt;&#x2F;a&gt; qui résume bien les gros
+risques (spoiler : roulez loin des portières).&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Petit historique du calcul d’itinéraire</title>
+        <published>2013-07-07T00:00:00+00:00</published>
+        <updated>2013-07-07T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/histoire-calcul-iti/" type="text/html"/>
+        <id>https://tristramg.eu/histoire-calcul-iti/</id>
+        
+        <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+&lt;p&gt;Plus formellement pour parler de calcul d’itinéraire, on parlerait du
+« problème du plus court chemin dans un graphe ». La finalité reste la
+même : qu’est-ce qu’il y a de plus court pour aller de A vers B.&lt;&#x2F;p&gt;
+&lt;p&gt;Les calculs d’itinéraires ont ceci de sympa que l’application finale
+parle à n’importe qui :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;l’utilisateur final qui utilise un GPS&lt;&#x2F;li&gt;
+&lt;li&gt;l’étudiant en informatique a appris à un moment les algorithmes de
+base&lt;&#x2F;li&gt;
+&lt;li&gt;le sujet reste encore assez pointu algorithmiquement mais explicable
+à celui qui s’y intéresse le temps de quelques pintes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Ce que je trouve intéressant, c’est l’évolution dans le temps de ces
+algorithmes. Je m’excuse pour les détails techniques ponctuels.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;1959-dijkstra&quot;&gt;1959 : Dijkstra&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Edsger_W._Dijkstra&quot;&gt;Edgard Dijkstra&lt;&#x2F;a&gt; est
+néerlandais. Le « ij » de son nom se prononce donc « ail » comme celui
+que vous utilisez pour éloigner les vampires.&lt;&#x2F;p&gt;
+&lt;p&gt;C’est un des grands noms de l’informatique, connu pour son écriture
+manuscrite, ses citations telles que :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Simplicity is prerequisite for reliability&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;The question of whether Machines Can Think... is about as relevant as the question of whether Submarines Can Swim&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;Object-oriented programming is an exceptionally bad idea which could only have originated in California&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;C’est l’auteur de --- attention, scoop --- &lt;em&gt;l’algorithme de Dijkstra&lt;&#x2F;em&gt;
+publié en 1959. Il a été décrit dans un article qui fait seulement &lt;a href=&quot;http:&#x2F;&#x2F;www-m3.ma.tum.de&#x2F;foswiki&#x2F;pub&#x2F;MN0506&#x2F;WebHome&#x2F;dijkstra.pdf&quot;&gt;deux
+pages&lt;&#x2F;a&gt;
+mais dont le nom restera comme le fondamental du calcul d’itinéraire.&lt;&#x2F;p&gt;
+&lt;p&gt;Cependant, l’algorithme qu’on apprend à l’école n’est pas celui qui est
+publié par Dijkstra. Il a en effet une complexité de O(n²) alors qu’on
+nous enseigne que la complexité de l’algorithme est en O(n·log(n)).&lt;&#x2F;p&gt;
+&lt;p&gt;Il faut attendre 28 ans pour y arriver.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;1987-tarjan&quot;&gt;1987 : Tarjan&lt;&#x2F;h1&gt;
+&lt;p&gt;Le point faible de l’algorithme de Dijkstra est sa queue de priorité qui
+remonte le prochain nœud du réseau à visiter. La publication par Tarjan
+(une autre référence dans le monde des Graphes) d’un &lt;a href=&quot;http:&#x2F;&#x2F;www.cs.princeton.edu&#x2F;courses&#x2F;archive&#x2F;fall03&#x2F;cs528&#x2F;handouts&#x2F;fibonacci%20heaps.pdf&quot;&gt;article en
+1987&lt;&#x2F;a&gt;
+nous amène à la version « moderne » de l’algorithme de Dijkstra.&lt;&#x2F;p&gt;
+&lt;p&gt;Différentes variantes ont été testées pour accélérer l’algorithme avec
+des succès moyens, comme le A*, les recherches bi-directionnelles, des
+sacrifices à l’optimum, ou encore une combinaison de tout ça.&lt;&#x2F;p&gt;
+&lt;p&gt;Sur un ordinateur récent, calculer un itinéraire en France prend environ
+une seconde. Dans les années 90 c’était donc encore bien trop lent. Il
+fallait donc trouver comment accélérer le calcul.&lt;&#x2F;p&gt;
+&lt;p&gt;Il faut attendre 18 ans pour y arriver.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2005-challenge-dimacs-and-rise-of-the-kit&quot;&gt;2005 : challenge Dimacs and rise of the KIT&lt;&#x2F;h1&gt;
+&lt;p&gt;Le thème du &lt;a href=&quot;http:&#x2F;&#x2F;www.dis.uniroma1.it&#x2F;challenge9&#x2F;format.shtml&quot;&gt;9ème Challenge
+Dimacs&lt;&#x2F;a&gt; était le
+calcul d’itinéraire. À cette occasion le &lt;a href=&quot;http:&#x2F;&#x2F;www.dis.uniroma1.it&#x2F;challenge9&#x2F;download.shtml&quot;&gt;réseau routier des
+États-Unis&lt;&#x2F;a&gt; a été
+diffusé.&lt;&#x2F;p&gt;
+&lt;p&gt;De très nombreuses publications ont pulvérisé tous les records. On peut
+désormais calculer un itinéraire entre deux points de la planète en
+moins d’une milliseconde (soit des &lt;em&gt;milliers&lt;&#x2F;em&gt; de fois plus rapide que
+l’algorithme de Dijkstra).&lt;&#x2F;p&gt;
+&lt;p&gt;Un grand nombre de publications viennent du &lt;a href=&quot;http:&#x2F;&#x2F;i11www.iti.uni-karlsruhe.de&#x2F;en&#x2F;projects&#x2F;route_planning&#x2F;index&quot;&gt;Karlsruhe Institute of
+Technology&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Les membres de cette équipe ont proposé de nombreux algorithmes, mais
+ont également testé presque toutes les combinaisons possibles entre ces
+algorithmes.&lt;&#x2F;p&gt;
+&lt;p&gt;Ça devenait la foire et on ne savait plus trop où donner de la tête.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2008-la-consolidation-avec-les-contraction-hierarchies&quot;&gt;2008 : la consolidation avec les Contraction Hierarchies&lt;&#x2F;h1&gt;
+&lt;p&gt;Après cette phase d’ébullition et de créativité, on a pu tirer la
+substance essentielle pour arriver à l’algorithme qui deviendra
+probablement la nouvelle référence : les &lt;em&gt;contraction hierarchies&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Il a été présenté dans un thèse de master (du coup j’ai un peu honte de
+ma thèse de doctorat moi...) par
+&lt;a href=&quot;http:&#x2F;&#x2F;algo2.iti.kit.edu&#x2F;documents&#x2F;routeplanning&#x2F;geisberger_dipl.pdf&quot;&gt;Geisberger&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Il n’y a pas vraiment de nouveautés, juste une suppression de tout le
+superflu rendant d’autres algorithmes trop compliqués pour ne garder que
+le cœur qui fonctionne bien.&lt;&#x2F;p&gt;
+&lt;p&gt;J’invite ceux qui s’intéressent à l’algorithmie à lire l’algorithme et
+surtout sa démonstration très agréable. À la première lecture on se dit
+que ça ne peut pas marcher et il faut vraiment dérouler la démonstration
+pour s’en convaincre.&lt;&#x2F;p&gt;
+&lt;p&gt;C’est cet algorithme qui est utilisé dans
+&lt;a href=&quot;http:&#x2F;&#x2F;map.project-osrm.org&#x2F;&quot;&gt;OSRM&lt;&#x2F;a&gt;, un calculateur Libre qui se base
+sur les données &lt;a href=&quot;http:&#x2F;&#x2F;www.openstreetmap.org&quot;&gt;OpenStreetMap&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2009-les-transports-en-communs-enfant-pauvre-de-la-recherche&quot;&gt;2009 : les transports en communs, enfant pauvre de la recherche&lt;&#x2F;h1&gt;
+&lt;p&gt;On sait donc enfin calculer efficacement un itinéraire sur un réseau
+routier. Mais qu’en est-il en transports en communs ? C’est vraiment pas
+la joie.&lt;&#x2F;p&gt;
+&lt;p&gt;Les performances sont décevantes, et les tentatives d’appliquer les
+succès sur les réseaux routiers ont échoué.&lt;&#x2F;p&gt;
+&lt;p&gt;Dans l’article &lt;a href=&quot;http:&#x2F;&#x2F;link.springer.com&#x2F;chapter&#x2F;10.1007&#x2F;978-3-642-03456-5_24&quot;&gt;Car or Public Transport—Two
+Worlds&lt;&#x2F;a&gt;
+H. Bast souligne les différences qui existent entre les deux mondes et
+qu’il n’est pas pertinent d’essayer de se rapprocher.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2010-transfer-patterns-enfin-la-performance&quot;&gt;2010 : transfer patterns, enfin la performance&lt;&#x2F;h1&gt;
+&lt;p&gt;C’était l’été, je venais d’envoyer mon manuscrit de thèse aux
+rapporteurs. Par acquis de conscience j’ai lu le &lt;a href=&quot;http:&#x2F;&#x2F;ad.informatik.uni-freiburg.de&#x2F;files&#x2F;transferpatterns.pdf&quot;&gt;nouvel article de H.
+Bast&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Pour la première fois, on arrivait à calculer des itinéraires en
+quelques millisecondes en utilisant les transports d’une grande ville
+(comme New-York).&lt;&#x2F;p&gt;
+&lt;p&gt;À y regarder de plus près, c’était quand même tricher : en utilisant la
+puissance de milliers d’ordinateurs dont dispose Google, un pré-calcul
+massif est la clef de ces performances.&lt;&#x2F;p&gt;
+&lt;p&gt;Plus que deux ans à attendre avant d’avoir un algorithme performant&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2012-raptor-de-delling&quot;&gt;2012 : Raptor de Delling&lt;&#x2F;h1&gt;
+&lt;p&gt;Daniel Delling affectionne les noms qui ont la classe (un précédent
+algorithme s’appelait Sharc). Il a donc proposé
+&lt;a href=&quot;http:&#x2F;&#x2F;research.microsoft.com&#x2F;apps&#x2F;pubs&#x2F;default.aspx?id=156567&quot;&gt;Raptor&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;L’approche proposée ne nécessite pas de pré-calcul et a pourtant de
+meilleures performances que les transfer patterns.&lt;&#x2F;p&gt;
+&lt;p&gt;Hourray ! Les voitures n’ont plus le monopole des algorithmes efficaces
+! Raptor a en plus l’avantage d’être plutôt simple et d’avoir des
+propriétés intéressantes.&lt;&#x2F;p&gt;
+&lt;p&gt;Les 6 ans d’écarts entre le premier algorithme routier haute
+performances avec le premier algorithme haute performances pour
+transports en commun s’explique probablement tout simplement par
+l’absence de données de transports en commun utilisables par la
+recherche.&lt;&#x2F;p&gt;
+&lt;p&gt;C’est le mouvement open data appliqué aux transports qui a permis ces
+progrès scientifiques.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2013-connection-scan-algorithm&quot;&gt;2013 : Connection Scan Algorithm&lt;&#x2F;h1&gt;
+&lt;p&gt;Le dernier pour la route ! Dans un article très modestement nommé
+&lt;a href=&quot;http:&#x2F;&#x2F;link.springer.com&#x2F;chapter&#x2F;10.1007%2F978-3-642-38527-8_6&quot;&gt;Intriguingly Simple and Fast Transit
+Routing&lt;&#x2F;a&gt;
+les auteurs présentent le &lt;em&gt;connection scan algorithm&lt;&#x2F;em&gt;. Il est légèrement
+plus performant que Raptor, mais il est considérablement plus simple.&lt;&#x2F;p&gt;
+&lt;p&gt;À la lecture de l’article, puis à nouveau à l’implémentation, on est
+étonné de voir à quel point c’est encore plus bête qu’un pigeon, mais ça
+marche.&lt;&#x2F;p&gt;
+&lt;p&gt;On fait un voyage de 54 ans dans les calculs d’itinéraires pour arriver
+sur un algorithme qui aurait pu être développé en même temps que celui
+de Dijkstra.&lt;&#x2F;p&gt;
+&lt;p&gt;Du coup on va finir par une dernière citation de Dijkstra qui me semble
+tout à propos :&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>OpenDataLab : ouverture des données RATP</title>
+        <published>2013-05-25T00:00:00+00:00</published>
+        <updated>2013-05-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/opendatalab/" type="text/html"/>
+        <id>https://tristramg.eu/opendatalab/</id>
+        
+        <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+&lt;p&gt;Moment historique : La RATP a ouvert ses données horaires ! Avec celles
+Transilien ouvertes il y a un an, la couverture de Paris et de la petite
+ceinture est très bonne. Il ne manque plus que les données Optile
+(réseau d’environ 90 transporteurs) pour avoir des données complètes sur
+l’Île-de-France.&lt;&#x2F;p&gt;
+&lt;p&gt;Allez jeter un coup d’œil à leur site : &lt;a href=&quot;http:&#x2F;&#x2F;data.ratp.fr&#x2F;&quot;&gt;http:&#x2F;&#x2F;data.ratp.fr&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Pour faire un peu de communication, un hackathon (ou plutôt un concours
+d’applications) nommé « OpenDataLab » a été organisé ce week-end précédé
+d’une conférence.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;impressions&quot;&gt;Impressions&lt;&#x2F;h1&gt;
+&lt;p&gt;J’ai vraiment apprécié les efforts pédagogiques de la RATP pour
+expliquer comment sont construits les horaires et leur effort
+d’expliquer le format GTFS des horaires. Même si c’est probablement le
+format le plus simple et plus simplistes pour représenter des horaires
+de transport en commun, la prise en main est rude (merci de ne pas avoir
+fourni du Trident brut ;) ).&lt;&#x2F;p&gt;
+&lt;p&gt;Une grande partie des mentors étaient de la RATP, ce qui a permis des
+échanges informels et très intéressants qu’on a pas l’habitude d’avoir.
+Je pense que c’est vraiment l’aspect le plus important de ce genre
+d’évènement et il faudrait trouver une idée pour le faciliter.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ma-realisation&quot;&gt;Ma réalisation&lt;&#x2F;h1&gt;
+&lt;p&gt;Entre deux échanges, j’ai fait mon mini-projet utilisant les données de
+la RATP en mettant une contrainte : ne pas coder, seulement utiliser un
+tableur (à la grande perplexité de Andrew ;) ). Je pense en effet qu’il
+est important que l’opendata s’ouvre un peu plus à ceux qui ne veulent
+pas forcément créer une killer-app.&lt;&#x2F;p&gt;
+&lt;p&gt;J’ai donc voulu essayer de reproduire ceci :
+&lt;a href=&quot;http:&#x2F;&#x2F;www.fastcodesign.com&#x2F;1669080&#x2F;what-if-londons-geography-were-as-distorted-as-its-tube-map&quot;&gt;http:&#x2F;&#x2F;www.fastcodesign.com&#x2F;1669080&#x2F;what-if-londons-geography-were-as-distorted-as-its-tube-map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Le plan schématique du métro de la RATP est déformé. Ça lui permet
+d’être lisible mais les distances ne collent pas. L’idée est donc de
+déformer une carte réaliste de Paris pour qu’elle colle au plan de la
+RATP.&lt;&#x2F;p&gt;
+&lt;p&gt;C’est bien évidemment parfaitement inutile. C’est avec une très grande
+minutie que je ne répondais à aucun critère de la grille d’évaluation&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;apporter un plus aux voyageurs&lt;&#x2F;li&gt;
+&lt;li&gt;mashup de plusieurs source de données&lt;&#x2F;li&gt;
+&lt;li&gt;être viable&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;choix-des-donnees&quot;&gt;Choix des données&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;La position réelles des stations&lt;&#x2F;li&gt;
+&lt;li&gt;La position sur le plan schématique des stations&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Ces données sont proposées par la RATP. Il ne reste plus qu’à les
+fusionner. Pour cela une &lt;em&gt;RECHERCHEV&lt;&#x2F;em&gt; (ou &lt;em&gt;VLOOKUP&lt;&#x2F;em&gt;) dans votre tableur
+préféré fera l’affaire.&lt;&#x2F;p&gt;
+&lt;p&gt;On sait donc faire correspondre les coordonnées à des pixels dans le
+plan RATP de 8000×8000 pixels (et oui ! il faut lire la doc livrée avec
+les jeux de données pour savoir ça ;) ).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;choix-du-plan-initial&quot;&gt;Choix du plan initial&lt;&#x2F;h2&gt;
+&lt;p&gt;J’ai pas fait très compliqué, je suis allé sur
+&lt;a href=&quot;http:&#x2F;&#x2F;openstreetmap.org&quot;&gt;http:&#x2F;&#x2F;openstreetmap.org&lt;&#x2F;a&gt;, j’ai cliqué sur &lt;em&gt;export&lt;&#x2F;em&gt;, j’ai choisi la
+zone qui m’intéresse tout en notant les coordonnées de mon export et la
+taille du fichier obtenu.&lt;&#x2F;p&gt;
+&lt;p&gt;Un produit en croix et j’arrive à faire correspondre les pixels RATP et
+les coordonnées des stations sur les pixels de mon image.&lt;&#x2F;p&gt;
+&lt;p&gt;Ainsi je sais que la station Gambetta est aux coordonnées 1500×800 du
+plan OSM, mais si on utilisait le plan schématique, elle serait en
+1600×850.&lt;&#x2F;p&gt;
+&lt;p&gt;Après un peu de nettoyage à la main des données qui ne collent pas,
+j’obtiens un fichier qui contient des pixels avant et après déformation
+selon le plan schématique RATP.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;appliquer-ces-transformations&quot;&gt;Appliquer ces transformations&lt;&#x2F;h2&gt;
+&lt;p&gt;Il ne reste plus qu’à donner ce fichiers de 400 points avant&#x2F;après à un
+logiciel de traitement d’image qui va faire la transformation pour nous.&lt;&#x2F;p&gt;
+&lt;p&gt;C’est que ça se gâte. Je n’ai pas trouvé d’outil vraiment satisfaisant.
+Je me suis rabattu sur
+&lt;a href=&quot;http:&#x2F;&#x2F;www.imagemagick.org&#x2F;Usage&#x2F;distorts&#x2F;#polynomial&quot;&gt;ImageMagick&lt;&#x2F;a&gt; qui
+accepte des fichiers d’entrée pour les distorsions.&lt;&#x2F;p&gt;
+&lt;p&gt;La seule manière qui donnait des résultats acceptable était la
+transformation &lt;em&gt;Polynomial&lt;&#x2F;em&gt; qui lisse un peu trop le rendu, n’accentuant
+pas assez les déformations ponctuelles. Une déformation en Mesh est
+annoncée, mais pas encore disponible.&lt;&#x2F;p&gt;
+&lt;p&gt;Voici le résultat (clic-droit afficher l’image pour l’avoir un plus
+grand) :&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;original_paris.webp&quot; alt=&quot;L’image originale de Paris&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;paris_by_ratp_no_overlay.webp&quot; alt=&quot;L’image sans superposition&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;paris_by_ratp.webp&quot; alt=&quot;L’image avec superposition&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h1&gt;
+&lt;p&gt;Merci encore à la RATP pour les données et les échanges.&lt;&#x2F;p&gt;
+&lt;p&gt;J’ai plus ou moins réussi mon challenge de faire une dataviz basée sur
+de l’OpenData sans coder.&lt;&#x2F;p&gt;
+&lt;p&gt;J’espère juste l’ouverture de ces données ira un peu plus loin d’un
+évènement ponctuel. La valeur de ces données mérite beaucoup plus qu’une
+simple application. Il faut impliquer la recherche à plus long terme, il
+faudrait réussir à enfin créer un écosystèmes d’entreprises qui
+s’entraideraient et créons des projets artistiques : la RATP c’est le
+quotidien de millions de personnes, elle nous amène à notre rendez-vous
+galant, elles nous met hors de nous quand ça se grippe, elle transforme
+notre vision de la ville, tant de choses à exprimer autrement qu’en
+HTML5.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust un langage prometteur</title>
+        <published>2013-04-17T00:00:00+00:00</published>
+        <updated>2013-04-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/rust/" type="text/html"/>
+        <id>https://tristramg.eu/rust/</id>
+        
+        <content type="html">&lt;blockquote class=&quot;update&quot;&gt;
+    &lt;h3&gt;Mise à jour le 2020-12-26&lt;&#x2F;h3&gt;
+    Je suis toujours aussi fan du Rust et j’ai pu en faire professionnellement. Et ce blog a été réécrit en utilisant
+&lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;zola&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Par contre, l’évolution est amusante : presque tout ce que je détaille n’est plus d’actualité, d’autres approches ont été utilisées.&lt;&#x2F;p&gt;
+&lt;p&gt;Mais reste le plus important : on a une alternative au C++ sûre et plaisante à utiliser.
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Je me suis intéressé au langage &lt;a href=&quot;http:&#x2F;&#x2F;www.rust-lang.org&#x2F;&quot;&gt;Rust&lt;&#x2F;a&gt;. Et je
+pense qu’il mérite que vous vous intéressiez également. Le problème
+c’est que je me suis un peu emballé et cet article est devenu un peu
+trop ambitieux. J’espère qu’il reste compréhensible malgré les
+approximations généreuses.&lt;&#x2F;p&gt;
+&lt;p&gt;J’ai donc décidé de ne pas parler de la syntaxe, mais des deux aspects
+que je trouve particulièrement intéressants :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;La gestion du parallélisme&lt;&#x2F;li&gt;
+&lt;li&gt;La gestion de la mémoire&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;gestion-du-parallelisme&quot;&gt;Gestion du parallélisme&lt;&#x2F;h1&gt;
+&lt;p&gt;Utiliser le mot &lt;em&gt;parallélisme&lt;&#x2F;em&gt; est risqué : je risque de me faire taper
+par ceux qui s’y connaissent. Mais j’aime vivre dangereusement, c’est
+mon côté rebelle.&lt;&#x2F;p&gt;
+&lt;p&gt;La question de fond, c’est comment faire plusieurs choses en même temps : gérer plusieurs requêtes http, commencer à parser le texte pendant
+qu’on lit sur le disque dur la suite, avoir plus de fps à Wolfenstein,
+etc.&lt;&#x2F;p&gt;
+&lt;p&gt;Des approches, il y en a plein ! Le problème permanent c’est comment
+faire communiquer ces bouts de code qui tournent côte à côte.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;multiprocess&quot;&gt;Multiprocess&lt;&#x2F;h2&gt;
+&lt;p&gt;On lance plusieurs fois le programme. Approche très simple et souvent
+utilisée sur des serveurs qui se dédoublent pour gérer plus de requêtes.
+La communication entre les process est galère… De plus lancer un
+nouveau process est une opération lourde à ne pas faire trop souvent.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;multithread&quot;&gt;Multithread&lt;&#x2F;h2&gt;
+&lt;p&gt;C’est ce que nous apprenons à l’école. On apprend à utiliser des mutex,
+des sémaphores, on devient fou à essayer de déboguer une
+&lt;em&gt;race-condition&lt;&#x2F;em&gt;. Donc c’est non seulement difficile à coder, mais en
+plus un bon nombre de langages on du mal à implémenter les threads. Et
+en plus, dans le cas de gros serveurs, créer un thread par requête est
+déjà une opération trop lourde, on arrive au &lt;a href=&quot;http:&#x2F;&#x2F;www.kegel.com&#x2F;c10k.html&quot;&gt;C10K
+problem&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;boucle-d-evenements&quot;&gt;Boucle d’évènements&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;nodejs.org&quot;&gt;node.js&lt;&#x2F;a&gt; est capable de gérer un grand nombre de
+requêtes en parallèle tout en ne tournant qu’un seul thread. Cela a
+popularisé les boucles d’évènements. Une boucle qui gère l’ensemble des
+tâches à traiter fonctionne plutôt bien ; en particulier lorsqu’il y a
+un grand nombre de temps morts comme des lectures disques, requêtes à
+une base de données, etc…&lt;&#x2F;p&gt;
+&lt;p&gt;Cet article explique plutôt bien ce dont il s’agit
+&lt;a href=&quot;http:&#x2F;&#x2F;applidium.com&#x2F;en&#x2F;news&#x2F;writing_an_evented_web_server&#x2F;&quot;&gt;http:&#x2F;&#x2F;applidium.com&#x2F;en&#x2F;news&#x2F;writing_an_evented_web_server&#x2F;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;les-tasks-rust&quot;&gt;Les tasks Rust&lt;&#x2F;h2&gt;
+&lt;p&gt;Les &lt;em&gt;tasks&lt;&#x2F;em&gt; dans Rust sont comparables aux &lt;em&gt;goroutines&lt;&#x2F;em&gt; de Go. La
+création d’une tâche est très légère : c’est tout à fait envisageable de
+lancer des dizaines de milliers de tâches. Concrètement, à l’exécution
+du programme plusieurs threads sont lancés qui se répartissent le
+traitement des tasks.&lt;&#x2F;p&gt;
+&lt;p&gt;En ce qui concerne la communication entre taches, un objet spécifique
+permet de s’échanger des données. Il s’agit de l’unique moyen de
+communiquer entre tâches : il n’y a donc aucun moyen d’avoir deux taches
+qui accèdent simultanément à la même donnée. Il n’y a donc plus toutes
+les emmerdes liées à la programmation multithreadée.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;gestion-de-la-memoire&quot;&gt;Gestion de la mémoire&lt;&#x2F;h1&gt;
+&lt;p&gt;Aaaaahhh que de trolls Java vs. C++ vs Alzheimer.&lt;&#x2F;p&gt;
+&lt;p&gt;L’approche de Rust sur la gestion de la mémoire est particulièrement
+intéressante car ça doit être la seule qui arrive à gérer tous les cas
+d’utilisation du C++ (en particulier dans sa version 2011) en apportant
+une grande sécurité et permettant de très bonnes performances.&lt;&#x2F;p&gt;
+&lt;p&gt;Par sécurité j’entends quatre choses :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pas de valeur nulle (impossible d’avoir une &lt;code&gt;NullPointerException&lt;&#x2F;code&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Pas de fuite mémoire&lt;&#x2F;li&gt;
+&lt;li&gt;Pas d’accès à la mémoire là où on n’a pas le droit&lt;&#x2F;li&gt;
+&lt;li&gt;Pas d’accès concurrent&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Rust répond à cette problématique en proposant trois manière de
+référencer de la donnée (le C++ en ayant 4 depuis les R-values du C++11,
+et encore je ne compte pas les smart pointers, etc.).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;garbage-collection&quot;&gt;Garbage collection&lt;&#x2F;h2&gt;
+&lt;p&gt;Une approche basée sur des garbage collectors considère globalement que
+tout est pointeur et qu’il y a un éboueur global qui sait combien de
+variables pointent sur l’objet. Il y a un problème de performance et les
+pointeurs peuvent être nuls ce qui empêche d’être sur que l’on peut
+accéder à l’objet. Et je parle même pas des horreurs autour du boxing.&lt;&#x2F;p&gt;
+&lt;p&gt;Rust propose des données qui seront garbage-collectées. Il suffit de
+préfixer le type par un &lt;code&gt;@&lt;&#x2F;code&gt;. Il est obligatoire d’initialiser les
+données et ces données ne peuvent en aucun cas être partagées entre deux
+&lt;em&gt;tasks&lt;&#x2F;em&gt;. De ce fait, le garbage collector ne pénalise qu’une seule
+&lt;em&gt;task&lt;&#x2F;em&gt; et pas toutes. De plus, on a la garantie qu’il est impossible que
+deux &lt;em&gt;tasks&lt;&#x2F;em&gt; accèdent simultanément à la même donnée. Il n’y a donc
+aucun risque d’accès concurrents.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;donnees-locales&quot;&gt;Données locales&lt;&#x2F;h2&gt;
+&lt;p&gt;Pour des raisons qui m’échappent, peu de langages proposent de déclarer
+des objets qui ont une durée de vie limitée au scope. C’est extrêmement
+performant (pas de garbage collector, pas de surcout mémoire lié au
+pointeur…). On a la garantie que l’objet existe et il sera simplement
+détruit à la fin du contexte. Si on veut sortir une variable du
+contexte, on la copie.&lt;&#x2F;p&gt;
+&lt;p&gt;Les défenseurs du C++ vanteront cette approche nommée
+&lt;a href=&quot;http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Resource_Acquisition_Is_Initialization&quot;&gt;RAII&lt;&#x2F;a&gt;
+qui est vraiment géniale de simplicité.&lt;&#x2F;p&gt;
+&lt;p&gt;Il y a juste un défaut : lors qu’on souhaite avoir plusieurs objets qui
+font référence à un même objet, ça se gâte (mais en pratique, en prenant
+le temps de bien développer, il s’agit de cas limite assez rare).&lt;&#x2F;p&gt;
+&lt;p&gt;Il s’agit là du modèle de base en Rust, autant dire que ça me réjouit.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;owned-boxes&quot;&gt;Owned boxes&lt;&#x2F;h2&gt;
+&lt;p&gt;C’est le terme utilisé dans Rust. Il s’agit d’un pointeur similaire à un
+&lt;code&gt;std::unique_ptr&lt;&#x2F;code&gt; en C++. Il doit être initialisé (pas de pointeur nul)
+et il ne peut pas y avoir deux pointeurs qui pointent sur le même objet.
+Un bout de code &lt;strong&gt;possède&lt;&#x2F;strong&gt; la mémoire. Du coup la gestion de la mémoire
+est triviale et il n’y a pas besoin de garbage collecteur.&lt;&#x2F;p&gt;
+&lt;p&gt;La possession peut être transmise (typiquement vers une autre &lt;em&gt;task&lt;&#x2F;em&gt;),
+mais il n’est plus possible d’utiliser la première variable (les
+C++-istes penseront à &lt;code&gt;std::move&lt;&#x2F;code&gt;).&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;fn main() {
+&lt;&#x2F;span&gt;&lt;span&gt;  let x = ~10; &#x2F;&#x2F; x est un owned box vers un entier
+&lt;&#x2F;span&gt;&lt;span&gt;  let y = x; &#x2F;&#x2F; y prend la possession. x n’est plus utilisable
+&lt;&#x2F;span&gt;&lt;span&gt;  io::println(int::str(*x)); &#x2F;&#x2F; Ça ne compilera pas : on n’a pas le droit d’utiliser x
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;mot-de-la-fin-sur-la-memoire&quot;&gt;Mot de la fin sur la mémoire&lt;&#x2F;h2&gt;
+&lt;p&gt;Ça peut sembler compliqué d’avoir ces trois notions. Surtout lorsqu’on
+vient d’un langage tel le Java où l’on ne se pose pas forcément la
+question.&lt;&#x2F;p&gt;
+&lt;p&gt;Je pense que c’est quand même utile de se pencher sur ces problématiques
+de possession des objets et que l’approche Rust est très agréable.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;autres-choses-que-j-aime-bien&quot;&gt;Autres choses que j’aime bien&lt;&#x2F;h1&gt;
+&lt;p&gt;Il y a d’autres détails que j’aime bien en Rust, les voici en vrac :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le compilateur se base sur &lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;LLVM&quot;&gt;LLVM&lt;&#x2F;a&gt;
+ce qui évite de réinventer la roue pour les optimisations à la
+compilation&lt;&#x2F;li&gt;
+&lt;li&gt;Par défaut on a que des constantes. Il faut explicitement demander
+des variables mutables&lt;&#x2F;li&gt;
+&lt;li&gt;Il n’y a pas d’héritage lourdingue à la Java. Tout se base sur des
+interfaces. Cependant il faut encore que je creuse cet aspect. Ça
+m’irrite de devoir définir explicitement les interfaces qu’on
+implémente&lt;&#x2F;li&gt;
+&lt;li&gt;Le nom, même si c’est galère à chercher sur Google (moins que Go
+cependant)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h1&gt;
+&lt;p&gt;Ça fait longtemps que la complexité du C++ m’agace, mais je n’ai pas
+trouvé de langage qui me satisfait. Il y a bien le D, mais j’ai le
+sentiment qu’il reste trop proche du C++ sans apporter tant de
+simplifications que ça. Le Go est un très bon candidat, mais peut-être
+pas assez brut…&lt;&#x2F;p&gt;
+&lt;p&gt;Rust a réussi à avoir une gestion de mémoire très rigoureuse, avec un
+bon compromis performances&#x2F;nombre de concepts. Seule la sécurité n’a pas
+été sacrifiée et c’est fortement appréciable.&lt;&#x2F;p&gt;
+&lt;p&gt;Malheureusement, ce n’est pas vraiment utilisable en production car
+l’évolution est encore assez rapide. J’ai hâte qu’une version 1 sorte et
+que j’aie l’occasion de m’en servir pour un vrai projet.&lt;&#x2F;p&gt;
+&lt;p&gt;Si vous voulez l’essayer, il est conseillé d’utiliser la branche
+&lt;em&gt;master&lt;&#x2F;em&gt; de leur dépôt GitHub. La communauté est très sympathique sur
+IRC, donc n’hésitez pas à demander si vous coincez.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Recette de petits pains au manioc (Pan de Yuca)</title>
+        <published>2013-04-11T00:00:00+00:00</published>
+        <updated>2013-04-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/pan-yuca/" type="text/html"/>
+        <id>https://tristramg.eu/pan-yuca/</id>
+        
+        <content type="html">&lt;p&gt;Quand j’allais en Équateur mon grand-père préparait pour le petit
+déjeuner des &lt;em&gt;Pan de Yuca&lt;&#x2F;em&gt;. Des petits pain au manioc. On peut les
+manger pour le petit-dèj, le gouter ou bien pour l’apéro, nature ou
+accompagné de yaourt ou encore de piment à base de &lt;em&gt;tomate de arbol&lt;&#x2F;em&gt;
+(tamarillo en français, pratiquement introuvable en France).&lt;&#x2F;p&gt;
+&lt;p&gt;Pendant 20 ans (littéralement !) ma mère a essayé d’imiter la recette
+avec des succès mitigés. Est-ce qu’on nous cachait la recette originale
+? Est-ce les ingrédients qui n’étaient pas assez bon ?&lt;&#x2F;p&gt;
+&lt;p&gt;Puis, je tombe un jour par hasard sur un blog de recettes de cuisine :
+&lt;a href=&quot;http:&#x2F;&#x2F;laylita.com&quot;&gt;http:&#x2F;&#x2F;laylita.com&lt;&#x2F;a&gt; tenu par une exilée équatorienne qui porte le même
+nom que ma mère et qui propose une recette qui fonctionne ! La voici :
+&lt;a href=&quot;http:&#x2F;&#x2F;laylita.com&#x2F;recipes&#x2F;2008&#x2F;01&#x2F;14&#x2F;pan-de-yuca-pan-queso&#x2F;&quot;&gt;http:&#x2F;&#x2F;laylita.com&#x2F;recipes&#x2F;2008&#x2F;01&#x2F;14&#x2F;pan-de-yuca-pan-queso&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Vu le succès qu’ont ces pains, je dévoile le secret.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;pan_de_yuca.webp&quot; alt=&quot;Un pain de manioc&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ingredients-pour-24-pains-soit-4-personnes&quot;&gt;Ingredients pour 24 pains (soit 4 personnes)&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;150g de farine de Manioc (aussi appelé Foufou, Bon Foufou, tapioca,
+amidon de manioc, fécule de manioc...). Ça se trouve facilement dans
+toute épicerie africaine&lt;&#x2F;li&gt;
+&lt;li&gt;2 boules de mozzarella&lt;&#x2F;li&gt;
+&lt;li&gt;1 pincée de sel&lt;&#x2F;li&gt;
+&lt;li&gt;75 g de beurre à température ambiante en petit morceaux&lt;&#x2F;li&gt;
+&lt;li&gt;1&#x2F;2 sachet de levure chimique&lt;&#x2F;li&gt;
+&lt;li&gt;1 gros œuf (ou deux petits)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Autant dire que ça ne va pas vous ruiner.&lt;&#x2F;p&gt;
+&lt;p&gt;Les quantités sont assez approximatives, c’est pas de la pâtisserie à la
+française. En particulier j’ai l’impression que la farine change à
+chaque fois.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;preparation&quot;&gt;Préparation&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Râper la mozzarella. C’est l’étape la plus fastidieuse&lt;&#x2F;li&gt;
+&lt;li&gt;Mélanger tout sauf le beurre et l’œuf&lt;&#x2F;li&gt;
+&lt;li&gt;Rajouter le beurre et l’œuf&lt;&#x2F;li&gt;
+&lt;li&gt;Pétrir&lt;&#x2F;li&gt;
+&lt;li&gt;Ajuster la consistance avec un peu d’eau ou un peu de farine&lt;&#x2F;li&gt;
+&lt;li&gt;Faire des petites boulettes de 2 cm de diamètre. Profitez-en pour
+avoir un peu de fantaisie et faire autre chose que des boulettes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;cuisson&quot;&gt;Cuisson&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Préchauffez le four à 250°&lt;&#x2F;li&gt;
+&lt;li&gt;Placez les boulettes bien espacées sure une plaque&lt;&#x2F;li&gt;
+&lt;li&gt;Cuisez les boulettes environ 7 minutes&lt;&#x2F;li&gt;
+&lt;li&gt;Dès que c’est doré, c’est bon&lt;&#x2F;li&gt;
+&lt;li&gt;Évitez de faire trop cuire, ça deviendrait trop sec&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;omn-nom-nom&quot;&gt;OMN NOM NOM&lt;&#x2F;h1&gt;
+&lt;p&gt;Attention, ça part très vite ! Ça tombe bien, ça ne se conserve pas très
+bien.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Et un blog de plus</title>
+        <published>2012-10-11T00:00:00+00:00</published>
+        <updated>2012-10-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/init/" type="text/html"/>
+        <id>https://tristramg.eu/init/</id>
+        
+        <content type="html">&lt;blockquote class=&quot;update&quot;&gt;
+    &lt;h3&gt;Mise à jour le 2020-12-28&lt;&#x2F;h3&gt;
+    Juste une petite ré-écriture avec &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt; qui a nécessité un
+passage vers du markdown, mais c’est pas plus mal !
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Et un blog de plus ! Ce coup-ci je reviens à l’auto-hébergement. On
+verra bien comment ça évoluera. Pour ceux que ça intéresse, j’utilise
+Pelican qui génère le blog à partir d’une collection de fichiers
+reStructuredText. Pour l’instant j’aime bien :)&lt;&#x2F;p&gt;
+&lt;p&gt;Je compte remettre quelques anciens post et également quelques
+cross-posts avec les articles que j’écris pour le travail (cf.
+[http:&#x2F;&#x2F;labs.canaltp.fr]).&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Paris en 1734</title>
+        <published>2012-01-07T00:00:00+00:00</published>
+        <updated>2012-01-07T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/paris1734/" type="text/html"/>
+        <id>https://tristramg.eu/paris1734/</id>
+        
+        <content type="html">&lt;p&gt;Hoplà ! Ce coup-ci c’est pas du tout polémique. Juste un mini-tuto sur
+comment superposer une vieille carte sur une toute nouvelle.&lt;&#x2F;p&gt;
+&lt;p&gt;Voici le résultat : &lt;a href=&quot;http:&#x2F;&#x2F;vrac.tristramg.eu&#x2F;Turgot2&#x2F;openlayers.html&quot;&gt;http:&#x2F;&#x2F;vrac.tristramg.eu&#x2F;Turgot2&#x2F;openlayers.html&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Lisez la suite si vous savoir comment faire.&lt;&#x2F;p&gt;
+&lt;p&gt;Nous allons utiliser le Plan Turgot de 1734. C’est à peu près la
+première carte de Paris qui soit suffisemment fiable. Plus
+d’information sur ... Wikipedia &lt;em&gt;of course&lt;&#x2F;em&gt; :
+&lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Plan_de_Turgot&quot;&gt;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Plan_de_Turgot&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Je me suis pas mal basé sur ce billet :
+&lt;a href=&quot;http:&#x2F;&#x2F;shawnsbits.com&#x2F;blog&#x2F;2010&#x2F;12&#x2F;23&#x2F;mapkit-overlays-session-1-overlay-map&#x2F;&quot;&gt;http:&#x2F;&#x2F;shawnsbits.com&#x2F;blog&#x2F;2010&#x2F;12&#x2F;23&#x2F;mapkit-overlays-session-1-overlay-map&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;correspondance-pixels-coordonnees&quot;&gt;Correspondance Pixels — coordonnées&lt;&#x2F;h1&gt;
+&lt;p&gt;On commence par télécharger la carte. C’est un JPEG de 6 552 × 5 101
+pixel. Il faut donc commencer par géo-tagger la carte. Pour cela, il
+faut repérer des points en pixels et trouver l’équivalent en
+coordonnées. J’ai utilisé respectivement The Gimp et OpenStreetMap.
+Ainsi le milieu de la Place Royale se situe aux pixels 1947;1731 et aux
+coordonnées 2.36554;48.85560 (attention, beaucoup de gens ont la
+fâcheuse tendance de les donner en lat;lon, alors que la majorité des
+logiciels préfèrent lon;lat, ce qui correspond à du X;Y).&lt;&#x2F;p&gt;
+&lt;p&gt;Une fois que vous avez quelques points (une demi-douzaine doit être bien
+suffisante), on va créer un fichier GeoTIFF qui est une image
+géo-tagguée. J’ai utilisé &lt;code&gt;gdal_translate&lt;&#x2F;code&gt; (paquet GDAL de votre
+distribution GNU&#x2F;Linux favorite)&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;gdal_translate  -a_srs&lt;&#x2F;span&gt;&lt;span&gt; EPSG:4326&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -gcp&lt;&#x2F;span&gt;&lt;span&gt; 4338 4074 2.323681 48.864527&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;  -gcp&lt;&#x2F;span&gt;&lt;span&gt; 170 2069 2.377336 48.865656&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;  -gcp&lt;&#x2F;span&gt;&lt;span&gt; 4940 4975 2.310114 48.868959&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -gcp&lt;&#x2F;span&gt;&lt;span&gt; 1626 1112 2.373795 48.851863&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -gcp&lt;&#x2F;span&gt;&lt;span&gt; 3566 463 2.3641 48.83893&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -gcp&lt;&#x2F;span&gt;&lt;span&gt; 2925 3466 2.34119 48.865739  Plan_de_Turgot.jpg Turgot2.tiff
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-a_srs EPSG:4326&lt;&#x2F;code&gt; correspond au système de projection que nous
+utilisons (lon&#x2F;lat)&lt;&#x2F;li&gt;
+&lt;li&gt;les -gcp` indiquent la correspondance coordonnées pixel vers
+coordonnées terrestres&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;Plan_de_Turgot.jpg Turgot2.tiff&lt;&#x2F;code&gt; : fichier d’entrée et de sortie&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;generation-de-tuiles&quot;&gt;Génération de tuiles&lt;&#x2F;h1&gt;
+&lt;p&gt;Toutes (enfin, toutes celles que je connais) les bibliothèques de
+cartographie JavaScript (Google Maps, OpenLayers, Leaflet, Polymaps…)
+utilisent des « tuiles » qui sont des images de 256×256 pixels et il
+faut les générer pour chaque niveau de zoom. Pour cela j’ai utilisé un
+petit script Python gdal2tiles.py.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;python&lt;&#x2F;span&gt;&lt;span&gt; gdal2tiles.py&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -p&lt;&#x2F;span&gt;&lt;span&gt; mercator&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -z &lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;12-18&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39; Turgot2.tiff
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;-p mercator : système de projection utilisé. Mercator est
+généralement utilisé pour les cartes mondiales (Google Maps,
+OpenStreetMap...)&lt;&#x2F;li&gt;
+&lt;li&gt;-z &#x27;12-18&#x27; : niveau de zoom à générer. Attention, le niveau 18, ça
+commencer prendre un peu de temps (une bonne dizaine de minutes)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;mettre-tout-ca-sur-une-carte&quot;&gt;Mettre tout ça sur une carte&lt;&#x2F;h1&gt;
+&lt;p&gt;gdal2tiles.py génère des fichiers tout fait. Donc c’est une version de
+feignasse, mais qui marche plutôt bien. J’ai un peu traficoté le code
+html généré pour OpenLayers mais rien de sorcier.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Écolos des champs, écolos des villes</title>
+        <published>2011-11-04T00:00:00+00:00</published>
+        <updated>2011-11-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/ecolo-villes/" type="text/html"/>
+        <id>https://tristramg.eu/ecolo-villes/</id>
+        
+        <content type="html">&lt;p&gt;J’ai une étiquette d’écolo et j’ai déménagé à Paris. Beaucoup de gens
+s’étonnent comment moi, amoureux de la nature, je fais pour vivre dans
+le béton et la pollution.&lt;&#x2F;p&gt;
+&lt;p&gt;Pour faire simpliste (parce que la subtilité n’est pas le maitre mot par
+ici), derrière le mot « écologie » on peut foutre principalement deux
+choses qui se contredisent parfois dans les idéaux et souvent dans la
+vie quotidienne.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ecolo-des-champs&quot;&gt;Écolo des champs&lt;&#x2F;h1&gt;
+&lt;p&gt;Avoir son potager, ne plus entendre la circulation de la rue des
+Pyrénées, faire de longues promenades bucoliques, ça fait rêver. L’étape
+d’après c’est d’élever des chèvres dans le Larzac (n’ayons pas peur des
+clichés).&lt;&#x2F;p&gt;
+&lt;p&gt;Dans cette famille d’écolos on va trouver des amoureux d’animaux,
+rétrogrades qui regrettent le bon vieux temps, des chasseurs, des
+anti-éoliennes, anti-trains,…&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ecolo-des-villes&quot;&gt;Écolo des villes&lt;&#x2F;h1&gt;
+&lt;p&gt;Bon, sauf que moi, je suis ingénieur, j’aime les chiffres, j’aime voir
+les choses dans leur globalité, imaginer un mode de vie qui passe à
+l’échelle. Donc, deux chiffres issus des &lt;a href=&quot;http:&#x2F;&#x2F;www.statistiques.developpement-durable.gouv.fr&#x2F;publications&#x2F;publication&#x2F;1811&#x2F;969&#x2F;bilan-energetique-france-2010-2.html&quot;&gt;statistiques ministérielles&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;2ème source d’émissions de CO2 en France : la voiture particulière
+(page 56 : 39% pour les transport en général et 20% pour la voiture
+individuelle).&lt;&#x2F;li&gt;
+&lt;li&gt;1ère source de dépense d’énergie : l’habitat et tertiaire (page 47 :
+43%)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Or si on veut sauver le monde, il faut émettre moins de CO₂ et dépenser
+moins d’énergie. Donc il faut réduire les transports (donc on se tasse
+tous pour réduire les distances et avoir de bons transports en communs)
+et il faut réduire la consommation d’énergie des bâtiments (donc on se
+tasse tous pour avoir moins de façades par où s’échappe la chaleur).&lt;&#x2F;p&gt;
+&lt;p&gt;Au final, le parisien qui s’en fout de la planète avec un pass navigo et
+son appartement est plus écolo que le hippie illuminé qui nécessite une
+voiture pour voir des potes, et qui a une maison avec 5 faces qui
+balancent la chaleur à l’extérieur.&lt;&#x2F;p&gt;
+&lt;p&gt;Et puis il y a le cas des abeilles qui se réfugient en ville pour
+échapper à la pollution des campagnes (pesticides...). C’est bien que
+notre air n’est pas si pollué que ça :)&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;et-la-vision-utopique&quot;&gt;Et la vision utopique ?&lt;&#x2F;h1&gt;
+&lt;p&gt;C’est trop simple de me contredire : on sait faire des maisons
+indiviudelles passives. On peut imaginer des petits ilôts d’habitats de
+quelques milliers de personnes où l’on vit sans voiture et reliés
+entre-eux par un train… J’adore dessiner des villes sur une carte
+blanche, mais dans le présent, je préfère Paris.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;update&quot;&gt;UPDATE&lt;&#x2F;h1&gt;
+&lt;p&gt;Bon, j’ai dit de la merde sur la part de la voiture individuelle. Elle
+ne représente en fait « que » 20% des émissions de CO₂. Merci à Maxime
+d’avoir relevé l’erreur. J’avais confondu « la part de la voiture dans
+les transports individuels » avec « la part de la voiture individuelle
+dans les transports ».&lt;&#x2F;p&gt;
+&lt;p&gt;Cela m’a permis de trouver des chiffres intéressants qui vont dans le
+sens de ce que je disais
+&lt;a href=&quot;http:&#x2F;&#x2F;www.eea.europa.eu&#x2F;publications&#x2F;transport-at-a-crossroads&#x2F;at_download&#x2F;file&quot;&gt;http:&#x2F;&#x2F;www.eea.europa.eu&#x2F;publications&#x2F;transport-at-a-crossroads&#x2F;at_download&#x2F;file&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Ils donnent un tableau avec l’énergie consommée dans les transports
+selon la densité :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;25 à 50 hab&#x2F;ha : 20 MJ&#x2F;hab&#x2F;an&lt;&#x2F;li&gt;
+&lt;li&gt;50 à 100 : 13,7 MJ&#x2F;hab&#x2F;an&lt;&#x2F;li&gt;
+&lt;li&gt;plus de 100 : 12,2 MJ&#x2F;hab-an&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Histoire d’avoir des ordres de grandeur :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paris Intra-Muros : 210 Hab&#x2F;ha (sans les bois de Vincenne et
+Boulogne 250)&lt;&#x2F;li&gt;
+&lt;li&gt;Paris petite couronne : 90 Hab&#x2F;ha&lt;&#x2F;li&gt;
+&lt;li&gt;Le Caire : 370 Hab&#x2F;ha&lt;&#x2F;li&gt;
+&lt;li&gt;Nantes (la commune) : 43 Hab&#x2F;ha&lt;&#x2F;li&gt;
+&lt;li&gt;Manhattan : 258 Hab&#x2F;ha&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Autolib’ ou « autopartage et gaspillage de l’espace urbain »</title>
+        <published>2011-09-14T00:00:00+00:00</published>
+        <updated>2011-09-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tristramg.eu/autolib/" type="text/html"/>
+        <id>https://tristramg.eu/autolib/</id>
+        
+        <content type="html">&lt;blockquote class=&quot;update&quot;&gt;
+    &lt;h3&gt;Mise à jour le 2020-12-26&lt;&#x2F;h3&gt;
+    Cet article a mal vieilli !&lt;&#x2F;p&gt;
+&lt;p&gt;Par contre sur le gaspillage d’espace, on s’y attaque enfin ! La ville de Paris veut supprimer
+plus de 50 000 places en surface (presque la moitié des places de surface, un peu moins de 10% des stationements total).&lt;&#x2F;p&gt;
+&lt;p&gt;Pendant le premier déconfinement, on a vu que cet espace pouvait être beaucoup mieux utilisé, par exemple pour faire des bars et rendre aux rue leur rôle de zone de vie.
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;L’autolib’ va être mis en route début octobre. En soit l’auto-partage
+n’est pas une nouveauté et existe dans toutes les &lt;a href=&quot;http:&#x2F;&#x2F;www.franceautopartage.com&#x2F;FAP&#x2F;FAPsocietaires.htm&quot;&gt;grandes villes&lt;&#x2F;a&gt; de
+France.&lt;&#x2F;p&gt;
+&lt;p&gt;Mais tout comme le Vélib’ a éclipsé le Vélo’v lyonnais, je parie que
+l’Autolib’ parisien va faire beaucoup de bruit.&lt;&#x2F;p&gt;
+&lt;p&gt;Parmi ses caractéristiques il y a la taille du réseau (3000 voitures,
+700 stations, 46 communes) et le fait que ce soit des voitures
+électriques (mais on s’en fout royalement que ce soit des voitures
+électriques).&lt;&#x2F;p&gt;
+&lt;p&gt;Par contre ce qui est intéressant, c’est surtout qu’ils espèrent
+remplacer 22 500 voitures (ce n’est pas la première fois que j’entends
+ce ratio de 1 pour 7 — à &lt;a href=&quot;http:&#x2F;&#x2F;www.imarguerite.com&#x2F;les-plus&#x2F;environnement.html&quot;&gt;Nantes&lt;&#x2F;a&gt;
+ils parlent même d’un ration de 8 à 10 contre 1).&lt;&#x2F;p&gt;
+&lt;p&gt;En gardant 5500 places pour la rotation des 3000 autolib’ et 2000 places
+pour faciliter le parking des automobilistes, on libère donc 15 000
+places de parking.&lt;&#x2F;p&gt;
+&lt;p&gt;Une place de parking fait 10m². Que peut-on faire donc faire avec 150
+000m² ?&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Trois fois le
+&lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Ligne_4_du_Busway_de_Nantes&quot;&gt;busway&lt;&#x2F;a&gt;
+de Nantes&lt;&#x2F;li&gt;
+&lt;li&gt;Construire trois parcs de la surface du &lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Liste_des_espaces_verts_de_Paris#Parcs&quot;&gt;Parc de
+Belleville&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Loger 20 000 étudiants
+&lt;a href=&quot;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Coefficient_d%27occupation_des_sols#Exemples&quot;&gt;http:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Coefficient_d%27occupation_des_sols#Exemples&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Un mélange de tout ça&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Question pour la fin : un étudiant parisien va payer 400€ pour 10m²,
+alors qu’un propriétaire de voiture ne va payer que 100€ pour la garer à
+couvert. Pourquoi un tel écart de prix ? Ce ne sont pas une arrivée
+d’eau, des murs et l’électricité qui vont multiplier le prix par 4.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;update&quot;&gt;UPDATE&lt;&#x2F;h1&gt;
+&lt;p&gt;Le parking en surface ne représente que 20% des places de parking à
+Paris. Cependant, Autolib’ veut aussi déployer des stations dans des
+parking couverts. Pour être honnête, il faudrait donc diviser mes
+chiffres disons par 4.&lt;&#x2F;p&gt;
+&lt;p&gt;Pour avoir une autre vision du gaspillage d’espace publique par les
+voitures, voici un &lt;a href=&quot;http:&#x2F;&#x2F;g.co&#x2F;maps&#x2F;p22b9&quot;&gt;parking de Toulouse&lt;&#x2F;a&gt; qui a
+une capacité de 510 places.&lt;&#x2F;p&gt;
+&lt;p&gt;Et sinon, il semblerait que l’Autolib’ &lt;a href=&quot;http:&#x2F;&#x2F;tempsreel.nouvelobs.com&#x2F;economie&#x2F;20120928.REU6981&#x2F;autolib-devrait-etre-rentable-au-printemps-2014.html&quot;&gt;marche mieux que prévu&lt;&#x2F;a&gt;.
+Je ne peux que m’en réjouir et espérer une accélération de la
+libération de l’espace public :)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
