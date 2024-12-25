@@ -55,30 +55,21 @@ body {
     line-height: 1.5;
     color: $text-colour;
     background: $background-color;
-    padding-top: 60px;
+    padding-top: 100px;
 }
 
 .container {
     padding-bottom: 4rem;
-
-    @media screen and (min-width: 800px) {
-        width: $body-width;
-        margin: 0 auto;
-        font-size: 18px;
-    }
-
-    @media screen and (max-width: 900px) {
-        box-sizing: border-box;
-        width: 100%;
-        font-size: 28px;
-        padding-left: 1rem;
-        padding-right: 1rem;
-    }
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: $body-width;
+    margin: 0 auto;
+    font-size: 18px;
 }
 
 header {
     border-top: 3px solid $main-colour;
-    margin-bottom: 4em;
+    margin-bottom: 0em;
     position: fixed;
     top: 0;
     width: 100%;
@@ -87,7 +78,6 @@ header {
 
     h1 {
         @include underline-from-center;
-
     }
 
     a,
