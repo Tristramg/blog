@@ -72,12 +72,20 @@ header {
     margin-bottom: 0em;
     position: fixed;
     top: 0;
+    height: 100px;
     width: 100%;
     background: $background-color;
-    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    box-sizing: border-box;
 
     h1 {
         @include underline-from-center;
+        margin: 0;
+        text-align: center;
     }
 
     a,
@@ -85,6 +93,8 @@ header {
         color: $text-colour;
         text-decoration: none;
     }
+
+    box-shadow: 0px 5px 5px lightgrey;
 }
 
 h1,
@@ -165,24 +175,9 @@ article {
 blockquote {
     margin: 2em 0;
     padding: 10px 20px;
-    position: relative;
     color: rgba($text-colour, 0.8);
     background-color: rgba($theme-color-default, .05);
     border-left: 3px solid rgba($theme-color-default, .3);
-    box-shadow: 1px 1px 2px rgba(0, 0, 0, .125);
-
-    p {
-        margin: 0;
-    }
-}
-
-.update {
-    margin: 2em 0;
-    padding: 10px 20px;
-    position: relative;
-    color: rgba($text-colour, 0.8);
-    background-color: rgba($theme-color-Mint-Green, .05);
-    border-left: 3px solid rgba($theme-color-Mint-Green, .3);
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .125);
 
     p {
@@ -194,6 +189,11 @@ blockquote {
         font-size: 1em;
         font-weight: bold;
     }
+}
+
+.update {
+    background-color: rgba($theme-color-Mint-Green, .05);
+    border-left: 3px solid rgba($theme-color-Mint-Green, .3);
 }
 
 .date {
