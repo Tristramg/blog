@@ -11,11 +11,13 @@ build_search_index = false
 
 taxonomies = [
     # You can enable/disable RSS
-    {name = "categories", rss = true},
-    {name = "tags", rss = true},
+    { name = "categories", rss = true },
+    { name = "tags", rss = true },
 ]
 
+author = "Tristram Gräbener"
 generate_feeds = true
+default_language = "fr"
 
 [extra]
 # Put all your custom variables here
