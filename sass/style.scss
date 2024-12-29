@@ -199,3 +199,17 @@ blockquote {
 .date {
     color: #8a8a8a;
 }
+
+figure {
+    text-align: center;
+    border: lightgray 1px solid;
+    padding: 1rem;
+    width: 80%;
+    box-shadow: 5px 5px 5px lightgray;
+    border-radius: 5px;
+
+    figcaption {
+        font-size: 80%;
+        font-style: italic;
+    }
+}
