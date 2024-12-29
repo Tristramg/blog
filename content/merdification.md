@@ -68,7 +68,7 @@ Même acheter son billet de train à la maison devient merdique à cause des mau
 
 Les gares de villes moyennes ne sont plus utilisable sur toute la longueur des quai pour forcer le contrôle à un point précis, provoquant des files d’attente et de la mauvaise humeur.
 
-Et si au lieu de continuer la fuite en avant dans le stupide et pénible, on mettait juste plus de personnel à bord qui peuvent aider, informer (et contrôler) les passagers ?
+Et si, au lieu de continuer la fuite en avant dans le stupide et le pénible, on mettait juste plus de personnel à bord pour aider, informer (et contrôler) les passagers ?
 
 ## Le zèle
 
