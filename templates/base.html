@@ -4,6 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
+  {% block rss %}
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
+  {% endblock %}
   <title>The Life and Opinions of Tristram Gräbener, Developper</title>
   <link rel="stylesheet" href="{{get_url(path="style.css")}}">
 </head>
