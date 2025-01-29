@@ -213,3 +213,41 @@ figure {
         font-style: italic;
     }
 }
+
+.sidenote {
+    float: right;
+    clear: right;
+    width: 30%;
+    margin-right: calc((30% + 2em) * -1);
+    font-size: small;
+    font-weight: lighter;
+}
+
+.hidden {
+    display: none;
+}
+
+.sidenote-symbol {
+    font-weight: bold;
+    vertical-align: super;
+}
+
+@media (max-width: 1100px) {
+    .sidenote {
+        width: 100%;
+        margin: 1em 0;
+        padding: 0 1em;
+        display: none;
+    }
+
+    .peer:checked~.sidenote {
+        display: block;
+    }
+
+    .sidenote-symbol {
+        font-weight: bold;
+        vertical-align: super;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+}

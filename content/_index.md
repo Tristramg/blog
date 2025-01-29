@@ -5,7 +5,7 @@ template = "index.html"
 page_template = "blog-page.html"
 +++
 
-## Je suis Tristram.
+## Je suis Tristram{% sidenote() %}le titre est une référence à [un roman de Laurence Sterne](https://fr.wikipedia.org/wiki/Vie_et_opinions_de_Tristram_Shandy,_gentilhomme) qui m’a valu mon prénom{% end %}.
 * Je produis du code, selon l’humeur du moment, sur :
     * [gitlab](https://gitlab.com/tristramg)
     * [github](https://github.com/tristramg)

@@ -1,0 +1,5 @@
+<input id="sidenote-{{nth}}" type="checkbox" checked="true" class="peer hidden" />
+<label for="sidenote-{{nth}}" class="sidenote-symbol">{{nth}}</label>
+<span class="sidenote">
+    <b>{{nth}}.</b> {{ body | markdown(inline=true) | safe}}
+</span>
