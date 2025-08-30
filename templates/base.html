@@ -5,10 +5,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   {% block rss %}
-    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
+  <link rel="alternate" type="application/atom+xml" title="Atom feed" href="{{ get_url(path=" atom.xml",
+    trailing_slash=false) }}">
   {% endblock %}
   <title>The Life and Opinions of Tristram Gräbener, Developper</title>
-  <link rel="stylesheet" href="{{get_url(path="style.css")}}">
+  <link rel="stylesheet" href="{{get_url(path=" style.css")}}">
+  <link rel="stylesheet" type="text/css"
+    href="https://compteurs.enliberte.fr/hit/uv22dlqsno54zxj?path={{current_path}}" />
 </head>
 
 <body>
@@ -19,7 +22,7 @@
     {% block content %} {% endblock %}
   </div>
   <footer>
-    <small>Nombre de visites sur cette page <img referrerpolicy="no-referrer-when-downgrade" src="https://compteurs.enliberte.fr/hit/uv22dlqsno54zxj?path={{current_path}}" alt="Compteurs de visites" /></small>
+    <small>Nombre de visites sur cette page <span class="compteurs-en-liberte-plain"></span></small>
   </footer>
 </body>
 
