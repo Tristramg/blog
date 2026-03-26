@@ -4,6 +4,10 @@ title = "Salaires : le mien et combien serait juste ?"
 category = "rouge-noir"
 +++
 
+{% update(date="2026-3-26") %}
+Je suis remonté à 600. Pour ne pas créer trop d’écarts avec des profils similaires. 🤷
+{% end %}
+
 {% update(date="2024-2-18") %}
 C’est un sujet qui reste difficile à discuter.
 
