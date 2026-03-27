@@ -5,11 +5,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   {% block rss %}
-  <link rel="alternate" type="application/atom+xml" title="Atom feed" href="{{ get_url(path=" atom.xml",
-    trailing_slash=false) }}">
+  <link rel="alternate" type="application/atom+xml" title="Atom feed" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
   {% endblock %}
   <title>The Life and Opinions of Tristram Gräbener, Developper</title>
-  <link rel="stylesheet" href="{{get_url(path=" style.css")}}">
+  <link rel="stylesheet" href="{{get_url(path="style.css")}}">
   {% if current_path %}
   <link rel="stylesheet" type="text/css"
     href="https://compteurs.enliberte.fr/hit/uv22dlqsno54zxj?path={{current_path}}" />
