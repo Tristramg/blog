@@ -10,8 +10,10 @@
   {% endblock %}
   <title>The Life and Opinions of Tristram Gräbener, Developper</title>
   <link rel="stylesheet" href="{{get_url(path=" style.css")}}">
+  {% if current_path %}
   <link rel="stylesheet" type="text/css"
     href="https://compteurs.enliberte.fr/hit/uv22dlqsno54zxj?path={{current_path}}" />
+  {% endif %}
 </head>
 
 <body>
